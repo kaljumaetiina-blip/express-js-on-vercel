@@ -2,52 +2,47 @@ import express from "express";
 import fetch from "node-fetch";
 
 const app = express();
-
-// 🟢 Google Sheet ID
 const SHEET_ID = "1YLwm-y_8wfLEJsMuBpqQtiptk3l3e8MLuoIOz_oV37Y";
 
-// 🔹 Funktsioon, mis loeb ühe lehe CSV ja muudab JSONiks
+// universaalne funktsioon, mis loeb mis tahes lehe
 async function readSheet(sheetName) {
-  const url = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=out:csv&sheet=${encodeURIComponent(sheetName)}&t=${Date.now()}`;
-  const resp = await fetch(url);
-  if (!resp.ok) throw new Error(`Sheet fetch failed: ${resp.status}`);
-  const csv = await resp.text();
-
-  const [headerLine, ...lines] = csv.trim().split("\n");
-  const headers = headerLine.split(",").map(h => h.trim());
-  const data = lines.map(line => {
-    const values = line.split(",");
-    const row = {};
-    headers.forEach((h, i) => (row[h] = values[i] ? values[i].trim() : ""));
-    return row;
-  });
-
-  return data;
+  const url = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?sheet=${encodeURIComponent(sheetName)}&t=${Date.now()}`;
+  const txt = await fetch(url).then(r => r.text());
+  const json = JSON.parse(txt.substring(txt.indexOf("{"), txt.lastIndexOf("}") + 1));
+  const headers = json.table.cols.map(c => c.label);
+  const rows = json.table.rows.map(r =>
+    Object.fromEntries(
+      headers.map((h, i) => [h, r.c[i] ? r.c[i].v : ""])
+    )
+  );
+  return rows.filter(r => r.SKU || r.Name); // välista tühjad
 }
 
-// 🔹 Kõik lehed, mida soovime lugeda
-const SHEETS = ["Products", "Orders", "Quotes", "Settings", "Shipping", "Invoices"];
-
-// 🔹 Dünaamilised API teed
-SHEETS.forEach(name => {
-  app.get(`/${name.toLowerCase()}.json`, async (req, res) => {
-    try {
-      const data = await readSheet(name);
-      res.json(data);
-    } catch (err) {
-      res.status(500).json({ error: `Cannot read sheet ${name}`, details: String(err) });
-    }
-  });
+// /products.json → loeb Products lehe
+app.get("/products.json", async (req, res) => {
+  try {
+    const data = await readSheet("Products");
+    res.json(data);
+  } catch (e) {
+    console.error(e);
+    res.status(500).json({ error: "Viga Google Sheeti lugemisel" });
+  }
 });
 
-// 🔹 Testileht
+// /quotes.json → loeb Quotes lehe
+app.get("/quotes.json", async (req, res) => {
+  try {
+    const data = await readSheet("Quotes");
+    res.json(data);
+  } catch (e) {
+    console.error(e);
+    res.status(500).json({ error: "Quotes lehe lugemine ebaõnnestus" });
+  }
+});
+
+// test
 app.get("/", (req, res) => {
-  res.send(`
-    <h2>✅ TiinaPood API töötab otse Google Sheetist!</h2>
-    <ul>
-      ${SHEETS.map(s => `<li><a href="/${s.toLowerCase()}.json">${s}</a></li>`).join("")}
-    </ul>
-  `);
+  res.send("✅ Server töötab ja loeb andmeid otse Google Sheetist!");
 });
 
 export default app;
