@@ -1,54 +1,53 @@
-import express from 'express';
-import path from 'path';
-import { fileURLToPath } from 'url';
-
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+import express from "express";
+import fetch from "node-fetch";
 
 const app = express();
 
-// 🟢 Serveeri avaliku kausta sisu (nt products.json, logo, CSS)
-app.use(express.static(path.join(__dirname, '..', 'public')));
+// 🟢 Google Sheet ID
+const SHEET_ID = "1YLwm-y_8wfLEJsMuBpqQtiptk3l3e8MLuoIOz_oV37Y";
 
-// 🏠 Avaleht (lihtne test HTML)
-app.get('/', (req, res) => {
-  res.type('html').send(`
-    <!doctype html>
-    <html lang="et">
-      <head>
-        <meta charset="utf-8"/>
-        <title>Tiina Express API</title>
-        <style>
-          body { font-family: Georgia, serif; margin: 40px; color: #333; background: #faf7f5; }
-          nav a { margin-right: 15px; color: #4b2e2e; text-decoration: none; font-weight: bold; }
-          nav a:hover { text-decoration: underline; }
-          code { background: #f1f1f1; padding: 2px 6px; border-radius: 4px; }
-        </style>
-      </head>
-      <body>
-        <nav>
-          <a href="/">Avaleht</a>
-          <a href="/products.json">Tooted JSON</a>
-          <a href="/api/healthz">Tervis</a>
-        </nav>
-        <h1>🧶 Tiina Butiigi API töötab!</h1>
-        <p>Proovi <a href="/products.json">/products.json</a> – näed tooteandmeid otse Vercelist.</p>
-      </body>
-    </html>
-  `);
-});
+// 🔹 Funktsioon, mis loeb ühe lehe CSV ja muudab JSONiks
+async function readSheet(sheetName) {
+  const url = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=out:csv&sheet=${encodeURIComponent(sheetName)}&t=${Date.now()}`;
+  const resp = await fetch(url);
+  if (!resp.ok) throw new Error(`Sheet fetch failed: ${resp.status}`);
+  const csv = await resp.text();
 
-// ❤️ Kontroll, et server töötab
-app.get('/api/healthz', (req, res) => {
-  res.status(200).json({
-    status: 'ok',
-    time: new Date().toISOString(),
+  const [headerLine, ...lines] = csv.trim().split("\n");
+  const headers = headerLine.split(",").map(h => h.trim());
+  const data = lines.map(line => {
+    const values = line.split(",");
+    const row = {};
+    headers.forEach((h, i) => (row[h] = values[i] ? values[i].trim() : ""));
+    return row;
+  });
+
+  return data;
+}
+
+// 🔹 Kõik lehed, mida soovime lugeda
+const SHEETS = ["Products", "Orders", "Quotes", "Settings", "Shipping", "Invoices"];
+
+// 🔹 Dünaamilised API teed
+SHEETS.forEach(name => {
+  app.get(`/${name.toLowerCase()}.json`, async (req, res) => {
+    try {
+      const data = await readSheet(name);
+      res.json(data);
+    } catch (err) {
+      res.status(500).json({ error: `Cannot read sheet ${name}`, details: String(err) });
+    }
   });
 });
 
-// ⚙️ Kui keegi läheb tundmatule aadressile
-app.use((req, res) => {
-  res.status(404).json({ error: 'Lehte ei leitud' });
+// 🔹 Testileht
+app.get("/", (req, res) => {
+  res.send(`
+    <h2>✅ TiinaPood API töötab otse Google Sheetist!</h2>
+    <ul>
+      ${SHEETS.map(s => `<li><a href="/${s.toLowerCase()}.json">${s}</a></li>`).join("")}
+    </ul>
+  `);
 });
 
 export default app;
