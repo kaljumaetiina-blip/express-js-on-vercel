@@ -1,0 +1,27 @@
+[
+  {
+    "sku": "MAIMUTARKUSEPUU",
+    "name": "Maimu Tarkuse Puu",
+    "price": 38.00,
+    "stock": 2,
+    "image": "https://blogger.googleusercontent.com/img/b/.../pilt1.jpg; https://blogger.googleusercontent.com/img/b/.../pilt2.jpg",
+    "category": "Kodusisustus",
+    "subcategory": "Seinakaunistused",
+    "active": true,
+    "url": "https://tiinakasitoopood.blogspot.com/p/maimu-tarkuse-puu.html",
+    "ship_fee": 3.9,
+    "ship_fee_courier": 5.9,
+    "shipClass": "pakiautomaati",
+    "size": "30 × 45 cm",
+    "material": "Heegeldatud linane nöör, puidust raam",
+    "story": "Maimu Tarkuse Puu on loodud kodu rahu ja tarkuse hoidjaks.",
+    "bullets": "Käsitsi heegeldatud, Naturaalne materjal, Ainulaadne muster",
+    "care": "Tolmu pühkida kuiva lapiga, mitte pesta",
+    "description": "Dekoratiivne seinakaunistus, mis sobib igasse tuppa, sümboliseerides elutarkust ja rahu.",
+    "notice": "Valmistatud käsitsi – iga töö on kordumatu.",
+    "highlight": true,
+    "blog_url": "https://tiinakasitookamber.blogspot.com/2025/09/maimu-tarkuse-puu.html",
+    "category_url": "https://tiinakasitoopood.blogspot.com/p/kodusisustus.html",
+    "category_label": "Kodusisustus"
+  }
+]
