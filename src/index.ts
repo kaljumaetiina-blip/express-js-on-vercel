@@ -3,62 +3,40 @@ import fetch from "node-fetch";
 
 const app = express();
 
-// 🔹 Google Sheet andmete allikas
-const SHEET_ID = "1YLwm-y_8wfLEJsMuBpqQtiptk3l3e8MLuoIOz_oV37Y";
-const SHEET_NAME = "Products";
+// 🔹 Google Sheet JSON URL
+const SHEET_URL =
+  "https://docs.google.com/spreadsheets/d/1YLwm-y_8wfLEJsMuBpqQtiptk3l3e8MLuoIOz_oV37Y/gviz/tq?tqx=out:json&tq&gid=0";
 
-// 🔹 JSON API – loeb otse Google Sheetist
+// 🔹 Andmete laadimine Google Sheetist
 app.get("/products.json", async (req, res) => {
   try {
-    const url = `https://docs.google.com/spreadsheets/d/${SHEET_ID}/gviz/tq?tqx=out:json&sheet=${SHEET_NAME}`;
-    const response = await fetch(url);
+    const response = await fetch(SHEET_URL);
     const text = await response.text();
-    const json = JSON.parse(text.substr(47).slice(0, -2));
-    const rows = json.table.rows;
 
-    const items = rows
-      .map((r) => r.c.map((c) => (c ? c.v : "")))
-      .filter((r) => r[0] && String(r[6]).toUpperCase() === "TRUE")
-      .map((v) => ({
-        sku: v[0],
-        name: v[1],
-        price: Number(v[2]) || 0,
-        stock: Number(v[3]) || 0,
-        image: v[4],
-        category: v[5],
-        active: true,
-        url: v[7],
-        ship_fee: Number(v[8]) || 0,
-        ship_fee_courier: Number(v[9]) || 0,
-        shipClass: v[10],
-        size: v[11],
-        material: v[12],
-        story: v[13],
-        bullets: v[14],
-        care: v[15],
-        description: v[16],
-        notice: v[17],
-        subcategory: v[18],
-        highlight: String(v[19]).toUpperCase() === "TRUE",
-        blog_url: v[20],
-        category_url: v[21],
-        category_label: v[22],
-      }));
+    // puhastame Google'i JSON-i (ta algab "/*O_o*/" ja lõppeb ")")
+    const json = JSON.parse(text.substr(47).slice(0, -2));
+
+    const rows = json.table.rows.map((r) =>
+      r.c.map((c) => (c ? c.v : ""))
+    );
+
+    const headers = json.table.cols.map((c) => c.label);
+    const items = rows.map((r) => {
+      let obj: any = {};
+      headers.forEach((h, i) => (obj[h] = r[i]));
+      return obj;
+    });
 
     res.json(items);
   } catch (err) {
-    console.error("❌ API viga:", err);
-    res.status(500).json({ error: "Server error", message: err.message });
+    console.error(err);
+    res.status(500).json({ error: "Tabelit ei õnnestunud lugeda" });
   }
 });
 
-// Avaleht
+// Health check
 app.get("/", (req, res) => {
-  res.type("html").send(`
-    <h1>Tiina Butiigi API</h1>
-    <p>✅ Ühendatud Google Sheetiga (${SHEET_NAME})</p>
-    <p><a href="/products.json" target="_blank">Vaata kõiki tooteid JSON-kujul</a></p>
-  `);
+  res.send("✅ Tiina Butiigi API töötab. Ava /products.json, et näha tooteid!");
 });
 
 export default app;
