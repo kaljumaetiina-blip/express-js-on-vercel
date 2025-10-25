@@ -1738,7 +1738,7 @@
   {
     "SKU": "ROOSIPUU",
     "Name": "Roosipuu- pajalapid",
-    "BaseSKU": "",
+    "BaseSKU": "LAPID",
     "Price": 15,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIjQ5WZSdhWj_iZvIwXB6vJAqPA4_xzRhkxz6k7weW_C5AA0XzylOYOfd5bs8l2aJQpr8T0Q56BYOLnKH3J5aRCpzfK8pAbklcSIK86KMJ6dMNgtlWXPNrkgflr7XY91xc7SEmaNJa8q6wVaLBc34ol5hazRFB1jqeo6-1y0VBrXFcQD4oRPGHB4juKdI/w300-h400/IMG_20251011_205853.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgh9qt4rQPaLDrp6-vJX3h6t-Iy5oJfRfBfB4KDyfXx6K5p6xBYk0lgYOiBIiueUL4N7STanysNhqsvPdmkGVA2elIpAKlHefzbPJXDqWx8xmuhrtLBKcU0tLbdgRrCqQbHzbtvlo5wa0ZMUFCe9C8AlLrmaMiqhcgM5_W0RMr75luAgnRC2eYATeIyUM/w300-h400/IMG_20251011_205908.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkzVnB7STOfT_V81836aXGeLIm6ktd16NMUVGl8oY7ZEr7pV-3x7L0ILgsGAXx2FrZiNbEK-qNMAg3fJGykQVzZVTqBsUh5joRnXU2nQ5HsmI3pO_8qbvFN_mauV1Xt3Ka0GhaJvPTJGcZFxhGJDw_pN1braUguBTIKDd3eL0KyAxIBDAKE_8k6oAzzA0/w300-h400/IMG_20251011_210022.jpg",
@@ -1766,7 +1766,7 @@
   {
     "SKU": "KOOGIHARMOONIA",
     "Name": "Köögi harmoonia pajalapid ja lauamatt",
-    "BaseSKU": "",
+    "BaseSKU": "LAPID",
     "Price": 20,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqmh2W428-85Osaos-gPkuocJzPTJEvx6IcfiCB1M8R9slspewmD3twt5ttd3_trz8gvsh-ZzaaWsflnjzbaudikQlUYO5wY4J9az3XpRU53JRDmrFCQJPgBcC1Uaz5_psYDhvf-SP3J_11xUC2fF-ZyUEOiMWWqF9CKa57jIpTwo3Nz4gGncZk-jraRE/s320/IMG_20251019_174957.jpg;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi03nSiK3w9pBuxiYJH9oiwbBoaJuYJm2yI_7ybbkCSGIM0UhfA7YWOm1rvi2VOJqzU1LdNm8oJcz-PyFyb4nulgGBklmg_nUGOW2um1utRWw3jIAk4_cZ5uhqEwBognJTj8Trj9wnoppPabqJq48XONxureMyzUd3bTvo2zqUZP8UrqZO64YsGOOmI3zY/s320/IMG_20251019_174852.jpg;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN3fatBDrPTHWH6Uzd0SH9YmPHivG6ZUZVyaCC16j2jsd0IWnqoM9yETTNpMjgRxwTB8B7AAyFP9Kh-ZaltbVXno0fezVb2D3-kshA_3RhwGneNC9Org2a958Gob35d8ZHeIjptqiGq4ANv16KxBFZMiZLXncky6PwHmIlU-5taYGngWol1UTEaNsn6UU/s320/IMG_20251019_174832.jpg;",
@@ -1794,7 +1794,7 @@
   {
     "SKU": "PAIKESETAPILINE",
     "Name": "Päikesetäpiline pühapäev-pajalapid",
-    "BaseSKU": "",
+    "BaseSKU": "LAPID",
     "Price": 18,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-21wYg6j7l-lJzjsXfOCMfEmTwWjeOwGBPsdLUWVRYOz1fiZ00sR2eyQzmKs2lqaa6DMtG-UmugM4hENibsBF7XawXbggYJr3XK_FTepX2_Teab6kYPIY0m5POyP15HKEcFcmP90wPyYMTU96ILOo3ugQ2iVggaaI4BL16hwrXnDmWIylaqzA3q7kV9w/s320/IMG_20251019_175136.jpg; https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiInZY_2-ojncfDqpx4aLKW0qye3Xt4gPCOuMcg3DzIj6uMCNeoPLK3FzZzTTlYXYEzI2Cayn0IqVMHpeiwbNbWAeFkncKlC5Cd1k04L4AG2tigpxUAUHN7XiYTV0mWHImjLVCL6-dAhQOAZhUg0GreduwgtEotvBuBFxrTatt-Asq6Fvvcght1Ejr7ujQ/s320/IMG_20251019_175154.jpg;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_chh-qfSiDt-pdmMhFp-XN1zJ_8oNb0-fRlqSEWXlkX4Dfoa-yu3j-7_cfcs5V4dPowa-UORSKNYBbvEXG25N9Se20N8x8p5jdM4q9v2ljecRSX1PY1SNOi6PmOjs1TXAApdOMtY_sc2XkN5q085MNcCIHaqU3g-aNXqKSPq3dsXLo2A3fOx0GRY-uhk/s320/IMG_20251019_175216.jpg;",
@@ -1822,7 +1822,7 @@
   {
     "SKU": "VURTSINEVANILL",
     "Name": "Vürtsine vanill- pajalapid",
-    "BaseSKU": "",
+    "BaseSKU": "LAPID",
     "Price": 18,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMSizo5FJw9g4RKyXbVq-O5YU6uHRLDBSQdcLte6UKqvJylr-gCSVSTQ3YS75p5_YK5-FpOIfttdV0NPNLzLZAe3fKLoUqbFkR7quePIoYKZrY-dNdARNt3xTOVz5KRr2BnZl2hQ6aAyOh4yxZ4IdTOvGvg7fc69-ahOCoQG_GjUIdOQ04i-sPshcTD6w/s320/IMG_20251019_175115.jpg;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4fGK7UTcm4t1dBrsJKayGPjgmk-wp-jMYFgV3BOHrYjUW9_P12Oy8ANwtri9UxPHfavBgEbXdWIYl56Jy-UJCeZi7nl3DFRr26KPQAa27TWl1zlk_eybvrPozvaPxIVmfAWDwVZWn0r024hp1WzOw4f3msH0KQnNy0bVTo_Zapgfr7l05QPE55pNJ2iQ/s320/IMG_20251019_175052.jpg;",
