@@ -702,7 +702,7 @@
   {
     "SKU": "HELBEPARG",
     "Name": "Helbeparg – heegeldatud peapael",
-    "BaseSKU": "",
+    "BaseSKU": "PEAPAEL",
     "Price": 20,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSi-1Y2MI-f3VEwwaJ0ouMNu-aYWb2BBpRnQwLAcfn8zhtGM1u9ifKyt9Uqr2qGPnDszI2Zlv1GFqSIBM7FxL0VxpFjlE_XDnNWLJ_grdMKj5v6etOVN6ViE4tB_s5WdnYGzVwx1z-99s9_uchp083U-7Gv-eT2-InO7qkOAN25i9CNPMzK7LxUOla/s320/IMG_20250208_022745%20copy.jpg",
@@ -730,7 +730,7 @@
   {
     "SKU": "HELBEVOOG",
     "Name": "Helbevoog- heegeldatud peapael",
-    "BaseSKU": "",
+    "BaseSKU": "PEAPAEL",
     "Price": 20,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8IzkPsyb7PgdCPmARvpFuXaG2EE4J1gzj1RWkzItyDDr7I97G09zCsVoqdgjbHwNENRk8BIULBPO2dkgz9urSQBr6O8hbmUTD46KsxM4CMhKeg-1zq_ijy2muDqzceps1uONEi1DgPRrszKCnu5_XiHSzyPlDbmOH9SBN9I5Yh9Ug_RC4bFNrkxo0/s320-rw/IMG_20250116_204615%20copy.jpg",
