@@ -2,7 +2,7 @@
   {
     "SKU": "OOMARJA-OIE",
     "Name": "Öömarja Õie- heegeldatud õlakott",
-    "Column 27": "",
+    "BaseSKU": "OOMARJA-OIE",
     "Price": 33,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipzaAEwfeN7hpZ-kD3GIp0EmZtMhKLxfT8-IykPnqhG3evlZnON6bnGq8V0IdXYlHBab3xs6cwp8DoAdoOH-JsmMb1AcQrCat-INPC1vY4VnQR4l286-isiuOF07XOvjOC7X8wvqO_Hfjd_V0MHEX1FEQf2V5hA8dm_EXjAPV3BJhwIG5Fiy-cYh4IKqY/s320/IMG_20250829_122900.jpg",
@@ -25,13 +25,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/kotid.html",
     "Category_label": "Kotid",
     "SubSubcategory": "",
-    "SyncStatus": "✅ Sünkroonis 25.10.2025, 18:58:31",
-    "BaseSKU": ""
+    "SyncStatus": "✅ Sünkroonis 25.10.2025, 18:58:31"
   },
   {
     "SKU": "PILVEKE-PILLE",
     "Name": "Pilveke Pille",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 35,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcM06oLWqUOrYRV82I_aQntSA0k1qB1ji3eKi_MtaWN-sNgctWwq4tmRYV12gVs6eAg-4PzRMBS1ZLcChpbmCAy9nDNXOzCVmg_KXgV9YXhCCQy9kXXWWXPMniKITEh8deyXTxlI9m_psCQdUGCVg8Q91ClJDS0Nc91J01XlAfGyzvM6eKHJL0oOxC19I/s600/Pilveke%20Pille.jpg",
@@ -54,13 +53,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/kotid.html",
     "Category_label": "Kotid",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "MARJAMAA-MARI",
     "Name": "Marjamaa Mari",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 40,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkbPnb8lKIKaecgCPfLaYS-hkf6_jYHTP-tCWcspQ4B2SAmy9Krbc0aGLVkLBfhHIYZlrccpkQhD1BuONSot8xAtr6hNwPTY7PuD48JpCztomQHTLZteXT0vaCG589mzyFHJTcNvutF90Qgpuca1OI0yRAll6MqsNzHZRiZvwgreH6kkZJ0haiJgg3F90/s320/Marjamaa%20Mari.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCyg_2fJCRBOYSXUZ9pKwCs77I4nin7vM-HKw6fC9-0FiXnH8t9twtZT5Ij6_o3MSuEHLzDpC-ThPtBerZbAWWNWuv4mYe2GPDYVkvx-oJMHFOaYuO-wWer1_reeuFIm9SDi_mD8gf1TfOLMLok6xWpwkAFLDlezMWaZabpuSXDLriqN5OAcOhmzfL7sQ/w400-h266/Untitled-1.png",
@@ -83,13 +81,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/kotid.html",
     "Category_label": "Kotid",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "SININE-SIRLI",
     "Name": "Sinine Sirli",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 31,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIyjD7zSnzhyDgpt6I10M42JTD4oC3M58sYss4E6oDzLro6N3N2cEwpyPGa_3IWmULDq5d65MKzLPUYJ2DPyXtOBJYt7dCjmoHfSLikRqGZlWRNhsYk2emIa9l4Ke3iO2wxtVzGIQDYtDclgAK4CEy6ucvKSZxiCqRx3viHCBbmCPTQ17QbUEtEpOH/w400-h400/Untitled%20(2).png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixWwsAsqjaccWtdhM8NBVk9VOKJefALfN3LEZNottfFUmLB_u1_kmMyq0HfC77nQF7MDaxN4FVu2Vxw4D3zOoiytQm--EYzdm9geIU4f7_FoAUtOwXIpC36C0LlotFjdzEEq-ZwLjRJLnwL9mU23L5OwD9W6XJ89MOtkv1kR3L-WLjgTlZTC7tcNTw/s320/kott%20suur.png",
@@ -112,13 +109,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/kotid.html",
     "Category_label": "Kotid",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "VAHUKOORE-VIIVIKA",
     "Name": "Vahukoore Viivika",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 31,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9SigbYarMdCy17gAaaFEqSYJJRf-pN3Na3K8OLM03kl8SxKRRQ3LO_Qzb2039X7qMXcMyg_r64YFcWAgL-nShb2AO6EFTFCirDWCxkv68WF5ydSupqe32t2e7baCzE44xaM9ng-2zNUeS4MkHEB1QzjWSD1WBXkYMQJe9OM2NlDzL8lEwg2_3xqYq/w400-h400/ChatGPT%20Image%2016.%20juuli%202025,%2008_16_15.png;;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHbcmHC_x2gsGEQDXQYXFp18JJYxXa92eIpFFjLxV8kP1ztoEoMMyK5rm35ykSb7r05zWQa-nph_pUG90i4fRXXJOg3XWcmihG9P71Xi3mnTb5YwdG15XLSqFbAfo06H2Ctw5DJwFfkyOdl5s0mNWbGc9asKnDo1Q-Z-YBDzKeYVBSEXDfb3ZmAR57/w640-h214/heegelkottide_mosaiik.png",
@@ -141,13 +137,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/kotid.html",
     "Category_label": "Kotid",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "OHTUKUMA-ELVI",
     "Name": "Õhtukuma Elvi",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 25,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTmcGl4wfwvm067sy9beXpIeNdqV9AL0xKPSJEIyjtCWTjQLt5iTIxk7ctHzlKnGgUjR9heR3c1cr-4gpyP_GNeCD68LNhEaPi68hV0pG6R-EDdoT8fRjsO2tZ21IkD5AK5qQW0b5ccHDWUZ8l27FS5pp-qELVVNrG9vF2bti0nV42CgxcCT8WHwn_/s600/pildid%20koos.png",
@@ -170,13 +165,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/kotid.html",
     "Category_label": "Kotid",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "SUDAMESALADUS",
     "Name": "Südamesaladus",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 15,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCKV0Jhq546AKvHb30i4tLaQ5RjN6QICzts8pr0luskI96VreeTrBs1d8eL1IDZT-_OgxrQ_f65t-WhBcJxtIMexL7fq8NYEuic4O8vK8UcSqmixU-3RpNSuqnJxI0xiE7DsLHqOBEVLolcUFp4f3n8AIY4fT8nVxWwwj3OT3WnQscm0b9XPQfrDs32AM/w400-h400-rw/valge%20%C3%B5mar%20laual1%20copy.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQCt1lbU0cogkf0Erw-xkoi09UV5ggw_aMtZqq5DAUnch_1to3C4CZZrnHSYIPcH6uIqZCZxGYME7WyefTfP1OQhMPR6_AyPkhXJeFu_7Twkvx0yNAV9_Cot9BdVmNciniqB3xlNoMpOahAQ3u9kyVXcq1GTTJChSj3C6vE4PjbJCOQyi7o7lgGAtn/s1536/Copilot_20250606_153446.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyZT175nhHC3LxCHF81Wn7fngiuxiuM0zmOYNcjVJFIGhn5vXEFKJMeBSLOfArPqv15fNzLNYQUiwwe8aid4U2zYXw6e5ylnmH32iSuoJ8Ii3VgBpIzAgiAe2Haw9lrouNFTx9_oR8KtqFhUtlWWlofFc0W0UVdgQKCZA4mmvuK4Jv10xqS3ZIVG6u/s320-rw/valgem%C3%A4rsilisad.png",
@@ -199,13 +193,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/kotid.html",
     "Category_label": "Kotid",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "PAIKESELOOJANG",
     "Name": "Päikeseloojang",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 15,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC7vzGmg0ULnDzQqH7WuQZ2oMaPd3AO1LRdmGDfX8S9_UYBa7wjp-5OiX0fn3j-2m9lBafuDJGo27ZjjR6DsYOWqPHUQXYpLemfGYhoKj8sxOqwMb0xs-k0bIPFtvEFWn0NCe2h6EoMbeMmtrYgMl9Hu_mKKiBzXNXvj7v477f5-ch2XnDWYpo-wfj/s320-rw/Untitled.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjp9I-U4zfB3EC6IvXTAcKRFxBNrpmn-zaPWMBmlZOU1r_DaDvrCjY21BLtabGdvf8PZwI6o1Y557RyHcgrd-sN-tZs2qurpbcANA8CXOfZk9QmNEpe07Azi8D0_B7WHyruWHpgxPklT9MAQlHPGe6DlDviZPxNtfTqwanV86SAo7SxrAYIdFeRXPDL/s400-rw/Copilot_20250809_160425.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU_61fFrbcw7jhvsvsQr_Eg2oiWs2tRfL0dfZA9Msg3CADFqk9kc-jZEqppZh64VaLWah0rkyX9Qj8js7cTr0QbFJ0MTcU80OZ12WRxxBpCgtpSfh2FtChufm8QLS0BdBJiUcGpvXlMyUYJgEGl4WcTU_2t55crhhFy8YzRwot800gZvJCeGyI9TQj/s320-rw/IMG_20250604_164331.jpg",
@@ -228,13 +221,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/kotid.html",
     "Category_label": "Kotid",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "KIRSISUUDLUS",
     "Name": "Kirsisuudlus",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 15,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidQplgOKygJZhuJ1-5mx9_PyJTq1rHJsHYnPt_iV5A0D63iSXZ72WLu63apmOUWn4f0OTP2FdOxxYtzw7RY5b5MZL_1N6R4QTatQBIxvquPsGn_cKXePPvXyNA_LrGIfqN_9uPYQ-voYrLuxT3bohpKb6CIEKcMwwvJWiP8Ru3vvVNozZFt92WWAsT/s320-rw/roosa%20m%C3%A4rss.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmIg-hHkQhUtkQFZErxmw5IWE8b7CAiaSN8N5uhy6bchduxE8EVstOPUcoI6e9HAUdialo5H7X_H_t3axGpmynmpr2QAV7AlxaxF6GTPJYj4rybBQbaT4QHWIbXZTkW6NEiSSSDrGWNJYne2fn-Wu6yOLH5HnsVekD5UWCrTnrvS0jrnlfm0VG8yl6/s320-rw/IMG_20250604_191109.jpg;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP4e7qAPP42OzCYN10wJzZY_e8zfkI3_oeUBGwRNjjUfx9UTfB3lljNkMjJW8wcdtgp7tc-CRYbemJhqqxsZmea7Z7LosvYa4VXZjAiQBwKGUNfcXCwO3GCHTIjuEskVjN3b2g5IUk9IkA26mHqtYslI9w1xjJCWkMs3-mglP2PpBIJr_m_J0hBXGe/s3648/IMG_20250604_191005.jpg;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-PkOx-_uG03nzXXcUeBxZdO7aEaNpmAMlvDku1b3I1lZ2RbrUxdXfN-UKqa7auSRQrHhfvkCZNiaoRRrprPBxFqYMfiPzBJv74kIW-vIl9AHh4Hx309NdzOQqVwwKv6UDlqonqB2VA6ZenGF4RJS0a34X6KiG_Xa1NouBGj4_FpfSYs15UblL1VzP/s320-rw/IMG_20250604_190958.jpg",
@@ -257,13 +249,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/kotid.html",
     "Category_label": "Kotid",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "OOVALGUS",
     "Name": "Öövalgus – must sätendav laudlina",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 150,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgQldr57W05-dN3DY5A3TEKf4dACDN-L5RMy-UoS57CuldzrDEf9TOUS3b1OZ4YZUl86XZfBSYINVHqCxmNkIFRe2JCiAh1SrjKnvZS_4HQCPt_Rkbd8n-hbQ6y453oB5Ihn___cSrvLydI1N2fL0EvJ9-X2GVtJXxa3Ayabg55g7C5Q5qohhgijOr/s800-rw/il_1588xN.3705729289_l62g.webp;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgai8cgQffQb_ZMgrTxiW0ZuNNbungMTRh_R9JhDz_Yvl1V6QsDwG7w2HDADdULuwfGG3KEbEc8849NK3bMi9odJV8E7q-Pd9-JLd8W7KgCFFcXwCvZH0ovyPAsSCTUhaIaS_bD3K6UMfXS9h-fGHL2Y0VZaqphVQ7lfwbGg9VrpQDVNRUeOc8_HXv3/w300-h400/il_1588xN.3659954408_njc1.webp;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7U8Guhl89LJ1G0Kwqs6pBxJlpripjtrBPgYG1ibTIRb9bLjCb4nzYoWwGIKSdxajK90CT0ado9EuIRIs1klSavaWPK2NQ-8UY0P8xHQvEPpcDkOFfFrU-o39cFS1CWCYNxY4UPQFBjU5UzZxjvDW4GPEJEtF5aztJTWfc0HTvYbJhvCoWa-BpbCuc/w300-h400/il_1588xN.3705983553_oxj9.webp;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6FXIfs0j61-UbkuNiRtuQPR-RFe3E_wGG2JVS-J54sgHgRdIMjep0seVGi0f6tomWcDBqswKYSC6x2F0WsGgll4C_fDqdYWMAsM9wZoguZH9l06lJBY2eCpkaelSAUotecUSUG2fJpCThUlgpHK6F9VuyANFm7KwvSTIZRL2B8yIpHxMj_c9ffDLa/w300-h400/il_1588xN.3658355170_7khm%20(1).webp;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ7plwFwcOF2VHZ8wQDpOXTNIWPOava-1jYhi56JuKnLGMtk_SbnrVNnVYSNpVs16H1Mx-ebwA3UC3J7KipMhgdo2VIjtP_qjkK6tszyzgAzB_jKeU0srzx2OSYZ9khrdhDL9WvZHcUSi-F-hlMj-dLdzUqcRCyYYIIP1l2nh343XMB3gstQd9Kq0X/s320/il_1588xN.3658367172_3d02.webp;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQZO23rWZg-zrS9gY57W6tqflolv4VAqpQ0fnWPPIVjTQD6zgaUYsdiGUTe8B9Qbjc1bTKX3h4Kzb8uCtENuO2xOJg_tLQh6qy3_KBGiMAOG4z15SGe3q4YxILVZQGk1zbQUtWudUi1iIJ90CBlXKqb3s_q2QJYbeNTzR7aF76WX6J_RF4koQrR4TH/w400-h300/il_1588xN.3658368834_3mzn.webp;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgai8cgQffQb_ZMgrTxiW0ZuNNbungMTRh_R9JhDz_Yvl1V6QsDwG7w2HDADdULuwfGG3KEbEc8849NK3bMi9odJV8E7q-Pd9-JLd8W7KgCFFcXwCvZH0ovyPAsSCTUhaIaS_bD3K6UMfXS9h-fGHL2Y0VZaqphVQ7lfwbGg9VrpQDVNRUeOc8_HXv3/w300-h400/il_1588xN.3659954408_njc1.webp;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgQldr57W05-dN3DY5A3TEKf4dACDN-L5RMy-UoS57CuldzrDEf9TOUS3b1OZ4YZUl86XZfBSYINVHqCxmNkIFRe2JCiAh1SrjKnvZS_4HQCPt_Rkbd8n-hbQ6y453oB5Ihn___cSrvLydI1N2fL0EvJ9-X2GVtJXxa3Ayabg55g7C5Q5qohhgijOr/s320/il_1588xN.3705729289_l62g.webp",
@@ -286,13 +277,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/laudlinad-ja-linikud_29.html",
     "Category_label": "Laudlinad ja linikud",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "ROOSIKRANTSI-TEE",
     "Name": "Roosikrantsi tee – heegeldatud laudlina",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 129.9,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpVOCHbpchIsEyRAc-PhWW3jsx9DCyUsR0SJNWAM2ar01ttOYfa5giO3IxYghTaYyJWIzFaGfHfO5q3q2GYEvn7_dZcWkqVrQsSqCe1uYtrIsbcOQKJ_kn4dsEXDD7wwFHKb9vMpXO4xoDXYq-S8Ch-Kn59VMrsswT3tbDqtPHCp0s4OIsDffqEsQk/s800-rw/474502596_914097994043957_6463445465348455308_n.jpg",
@@ -315,13 +305,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/laudlinad-ja-linikud_29.html",
     "Category_label": "Laudlinad ja linikud",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "LEPALEHE-LEENI",
     "Name": "Lepalehe Leeni – laudlina",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 25,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQh9iUpePt2a8Ee3Fkg3WEZirEHXRt1iGX5NUtCmfAM5ATanPujBdTcwjmKxPr-wbunnomP7_RdaGsZ-cAXMiGEld6ek4ksuPK2ZMt0lsAItldUboDjYA5LwNs9_VokBEs6u0pZbMdPqdOuZs0lboJ4YgSZBv7BWyddbzVoK1-CSMGPz3o7hsZmNuP/s1731/v%C3%A4iksem%20valge.jpg;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim4NVmPOJ7IdXy8HjW3JVqEry5sT6-pzPUWAfS7R1cxmn_QHQNNjcsdRML3eWZY0ZMOrsHziOEZ9vNqIujAbo6rcTk-Ib48GP2sNSCKqUZf_jBklJyXpj46y5GUmXx70-l5S-q7oj5N_F9qRuMNQlZ9WCvhPczqOF6gQQlCC68zPyRwKv6FYf4p78M/w400-h348/v%C3%A4iksem%20valge%20copy.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlk_lKoCom4PtJ-cWiOMggcLpEYyB2R_tbEaOTnAmn1tNAz2PT8CVXHsEVhZF0ICpt1wVRbu3ebQvANWZMVW1CEwuVOHoBY9i7lAcamxowU13cuhB7pvoWH-2l3w9oq-58s21bRO0OtQ_FftBL_9MjBaNgr2aM1r8xfsIxt4_Nf-jJrZzUr1xP69vU/w300-h400/il_1588xN.4532656107_bg4u.jpg",
@@ -344,13 +333,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/laudlinad-ja-linikud_29.html",
     "Category_label": "Laudlinad ja linikud",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "ONNEVOOG",
     "Name": "Õnnevoog – heegeldatud linik",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 35,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4e_Iq3pTRgXXPqBCce1-yYrLZQ7I8xfjqp1dvkTHYxmVKZDwAIEMrxlDZ25NMofwTfqxXttm_074b8WIFZKqJM_AQ9ovNo22IIorCWkikxuDyofXTcGccbBNlCXI8H-L8PVNHUa2Cah-ae7l4HgXIBnFbgfPFvGF8rCIM7BVCPmeFU6bI4HMd9_Y1Bno/s320/ChatGPT%20Image%2023.%20aug%202025,%2023_05_58%20copy.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2h2GwdwTZcAHmaZDiCT3nWuHr8siDTYME1QReDpQ7nlxPUpCxIx-Css8E5HjGQt6tHYkNXRl-W2bZBsNUBCFjslAa1UXZpmCh3Rn3v93IOYPtfyCW_hpX6hitg9pSqSXHA45Jzw1BL66Dvax7Ep7o4rBCa-29jeYC-xKzowK6A7thsTxTLBUK5foqF_Y/s1024/laiuse%20m%C3%B5%C3%B5duga.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkNcGKAw7a3dGoEXHv2Hge0ZraxBmVtzOByTuM5In-7qEU9XvSQRlux7PWsYb1hE563tyPhFEGmlWvt0G6XUDwqt00n9r2HIpMhWoYkGzasWlN5XZ3MAbH-yrjfFpJWtya12OV9nH-c8CGzhuTiIbqBwAufszHwH2U7-dGeuY5M0GKlRGuDlDNLtE6hLM/w400-h266-rw/Magenta%20haavli%20ja%20m%C3%B5%C3%B5dulint.png",
@@ -373,13 +361,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/laudlinad-ja-linikud_29.html",
     "Category_label": "Laudlinad ja linikud",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "KAKSIKPAIKE-70",
     "Name": "Kaksikpäike – laudlina 70 cm ",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 25,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-iBc7w0AESy5XjkyWezkT4C-H8z6-aZ1fQ-3-Epu8DfxgbjQGfmb15oqTMNZ5-7ji7SVlhs36qj2kpE01H312Ey8pGrSvEwI__SPuWAC_LA37MV6zppxajk23v15Rz8HWlBPeu6OMOKH8h_r7cmjWY83UcnuKf_Z4BOfB_3HfnDCi68nJTeFz_tMSWKM/w300-h400/il_1588xN.2974523390_9rib.webp",
@@ -402,13 +389,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/laudlinad-ja-linikud_29.html",
     "Category_label": "Laudlinad ja linikud",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "KAKSIKPAIKE-50",
     "Name": "Kaksikpäike- laudlina 50 cm",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 20,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1XRqREXCmHxolaJT-5DC7ZzAF9EyHNlIEpH81SOb49iEYUKpaAtliCnwiVsSlXRJggho09DxPqKIZ-uhqr0nu9n7CkfnyrXb2AhGr8Ea0_4eb1Ro9x7VhRvcut6Ql_4AGYQa_hqYltV00E6AH2UfN9CnLVpXuAk3NcTLGhVl4Z0GoHlzUoFuLbKET58s/w400-h300/il_1588xN.2974523842_rvs3.webp",
@@ -431,13 +417,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/laudlinad-ja-linikud_29.html",
     "Category_label": "Laudlinad ja linikud",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "VERIPUNANEVIIUL",
     "Name": "Veripunane viiul",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 30,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAzRn52nDEoRhCSsdXuxsih9rdg-zDPwiEqxa6GIHTXGHvGWQVMIcu91p5_UJL23gp66d-YEMwNfM8yJbzfZp6evfWTxx3LouTq8RLxkT1zd6ii4e_Un7lOuLFrucPDeBQL3jl_nKnZKpBDqviSHl-aOpY5OfPf5hghEH-n1hxdvGxl_VD1yccSmhOCqs/w388-h400/Linik%20motiiv%20punane.jpg",
@@ -460,13 +445,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/laudlinad-ja-linikud_29.html",
     "Category_label": "Laudlinad ja linikud",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "LUMEPITS",
     "Name": "Lumepits",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 30,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj9713kq2le2fRjIUedP7r53fRG2UrWcewP0DFD7LyrVT7wzWLzf-GpVSMI7EwEr9HhoNzQt7FVTyhNGR-qkz1oYAymI5BzB1rhDhEPy3IaNkKBdNgQZsEf0vch1WGpNbWPvOnuCd64N_Vg4y2dV-0tmBxAlSskkiJ75OygG-lFd_7GDHPPrVV8X2jFKw/w395-h400/Linikmotvalge.jpg",
@@ -489,13 +473,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/laudlinad-ja-linikud_29.html",
     "Category_label": "Laudlinad ja linikud",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "ALUSLINA",
     "Name": "Aluslina lehemustrilise tikandiga",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 75,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGUXamkT_MJzy4kDXfLTyZKIsyb_7q1TWiFEhnywT9PZVPPCPsyUDBdMEhipfW3bF3QMHC8JJlhyphenhyphenR7ppqJ76lkAqh2AgKye1TYnUi51xHXpONmZBhmoU-4ddGfOm2h1xt8MqTB68Z0K6NCaTGOVWjL49hnQD0kT2K7JoF3mZeBB0LJRaoigtA1Xy3_S0I/w400-h300/il_1588xN.3658369604_g1zw.webp;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwCIbHYHrShonZH7MTlpURK4X_5ZAuM_yJGfDrGCEuY_LC1r0c2EnjFSg1s-zMhstMwnS0Ec_MQcCM9-TdU8o-IZLJVdlAxjkJTxlLFLTMndWwtqQngIoGNta6lObNOuuU9w9bof0ktnyH1ib-SL8vitHjbrEPNyWLhQUk6Adkbehm53joz8sQh2anOnM/w400-h300/il_1588xN.3706057115_3t5z.webp;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDumsN3_gG05sJdIeTGC5gPJ086rd8E_XU9hr4Tj-KnQxxYPi5InT42Y-LYhf-MWPz5g63RcMo8PtE2rjkqPybv8vKXYezdDVfBRiGd2BDSisRxNRBnFbTIjV6b2kJmCfcH4GaDIRRjPCtiv7j8JsJN6YCdxDxEcPs9UWwwBOels3rcVJ5i3Hwz8L6dwM/w400-h300/IMG_20220207_205358.jpg;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7U8Guhl89LJ1G0Kwqs6pBxJlpripjtrBPgYG1ibTIRb9bLjCb4nzYoWwGIKSdxajK90CT0ado9EuIRIs1klSavaWPK2NQ-8UY0P8xHQvEPpcDkOFfFrU-o39cFS1CWCYNxY4UPQFBjU5UzZxjvDW4GPEJEtF5aztJTWfc0HTvYbJhvCoWa-BpbCuc/w300-h400/il_1588xN.3705983553_oxj9.webp;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7U8Guhl89LJ1G0Kwqs6pBxJlpripjtrBPgYG1ibTIRb9bLjCb4nzYoWwGIKSdxajK90CT0ado9EuIRIs1klSavaWPK2NQ-8UY0P8xHQvEPpcDkOFfFrU-o39cFS1CWCYNxY4UPQFBjU5UzZxjvDW4GPEJEtF5aztJTWfc0HTvYbJhvCoWa-BpbCuc/w300-h400/il_1588xN.3705983553_oxj9.webp;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ7plwFwcOF2VHZ8wQDpOXTNIWPOava-1jYhi56JuKnLGMtk_SbnrVNnVYSNpVs16H1Mx-ebwA3UC3J7KipMhgdo2VIjtP_qjkK6tszyzgAzB_jKeU0srzx2OSYZ9khrdhDL9WvZHcUSi-F-hlMj-dLdzUqcRCyYYIIP1l2nh343XMB3gstQd9Kq0X/w400-h300/il_1588xN.3658367172_3d02.webp",
@@ -518,13 +501,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/laudlinad-ja-linikud_29.html",
     "Category_label": "Laudlinad ja linikud",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "MUSTAPILGUMIRTEL",
     "Name": "Musta Pilgu Mirtel – makramee kõrvarõngad",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 25,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9Lgy1qBYPOghztCZc-hvP7rfMxi8HfRldIFtmUzNT7ibS1LfUxfeeAIWbyZLOAaSLuvZUVkOTiIEmF2tIwJCLc-ztjRACCDGc7Mf3sOaoHzmEgPBhX-CjUQ_jn3N_aQjF_k0-iSjCvQSdlHOCMUArmTygvQkZ7ew7xQPMi4o0SYOVUflJJ2VZBD_E4qQ/w400-h400/l%C3%A4hivaade%20k%C3%B5rvar%C3%B5ngastest.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7wPZfqLeucDd4I20PhGOZ7LDHvWhQLn6_SGqqDeqzE77i9zVFhgcFmI7677VDh-T3FxbpT1fINIfKP-sOo7DDPNX08JXVUN60BHRK5uf1ZNPeaLBQYRhMcv2GaLayks4NZI5_MQaH-R6NwjI2W8mZaSagRNV6YgijKJTDPZwqaQUZlGmAbZXIClHRhwY/w338-h400/k%C3%B5rvar%C3%B5ngad%20tekstita.png",
@@ -547,13 +529,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/ehted.html",
     "Category_label": "Ehted",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "PUNASE-SUDAME",
     "Name": "Punase Südame ehted – komplekt",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 35,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQPFo_32ILUxOQcPWdJtApnrdlu8tCGnTlTFp0ZCmXxd-Ag6m8BxiGV7oOlMJIjIQdhAU3IxpLXY1yh8B9topb-nPfGQe3sBz_qnauc5E0q9kjL2LW1G9cTR1pPczjTcyT2S3HpB4HaijNQjfHp5nOsI8m9-HmxB0ezONs23fso-TlH2q7PaqxpeL1/w266-h400/Copilot_20250802_032407.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4oqaRPtlqfrmIf5yu_cZQeDSwiJR8H0HZCyggzOPeLQtyzAaCDt3k4wj0ISJd2a5ToxkgN5XL0l6dybC1AWahIRtFyVPuVqYeKnG0-Ks23AKzOkTR907uMR41BwOuruzKUapsbuWMr5Q6KhsYhT8WfXgPIrkQS4sZEhoQAK2g4uOPBoLZGhTlFzEvmQY/w266-h400/Punase%20s%C3%BCdame.png",
@@ -576,13 +557,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/ehted.html",
     "Category_label": "Ehted",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "SUGISTUULED",
     "Name": "Sügistuuled – heegeldatud müts",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 30,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6a7eF9XAW8NU7PjHRzZaKHoFykMHvK1mxVaewc1hVBI5Miwri1fqQZJBFkyVlBUHXeFUx3e_1PRxa6jJ84VJz_I2kQM4_lbP3F84U_immeHNlqcy3hhhwK8H1QBqK5aZgup8ij3zfpaBdrOD7qVv9bgnxvNsaa3gWmUrDKLScaZobRwCZ5rvueRDcA04/s400/14b18e43-5aa4-4f0f-b62d-1d9922f8ee39%20copy.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjucIDPik2VjgWMe7emGk6asB6l9QKD5rWZulWq9xDq3n8KcX6oAJJueM1l1i3ap2KCpNV7k-AdpQtiw-wwraTlcJJRhKG4QeVf-DjozctGYyU3PN8deW_OaMBMVO1p4-zYBkMohNINy2_4r-5kWPuaRzdxdPNmfO0qw6nbXufnA1qkcLLqLEhyphenhyphenw86H/s320/ChatGPT%20Image%2012.%20aug%202025,%2000_03_28.png",
@@ -605,13 +585,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/mutsid.html",
     "Category_label": "Mütsid ja peapaelad",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "HELBELINE-HERTA",
     "Name": "Helbeline Herta – heegeldatud müts",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 25,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSq6irVf0jyqv7NBf2Rpcu9vr8OzmiXBD015YA19pQGUa7zF_Xr9jQ5q5pQ4BcLGqrtq8l1t-XumBLuUcs7eyEqlgrnqxVleBgenNfwJxhbtZNPVDsRmxY-b4HptySDXUmI_VWH4q3scmApALpUVm9JQ3wNRYe6nYzTFDdEfQ5PjoYrdIlDmjRMLf4/s320/IMG_20250208_022239%20copy.jpg;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWgpoHUZf8V1Hvf_b-oBgK-sxWLGZsWA9nCnuh8VFWFSLi3Xjcih6aIZZnvVovsUFCy6d8DIZ5n74G8WkwH2khRTN6jh9zKDO_6AAeJtqlxE_KpXwcgTL4wchsOgPs6xloW9Ny81bsfrf37YrVxod0hOc-DnlpvyPyP0KGUWvlTq73NNP8XHi6EVB1/s1600/IMG_20250208_022239%20copy....jpg;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr-T52Mk7eBQShjp1Mv_85yqIHcRxlPs7r_LjYkxMS1Eg3HmhqQANnwnNKCtiMoVD7QFQwTC6rJ3lsWN67CDUcr7tZ2dR7ABsCNJmTvfDCDp04oskwP5Pl3GrWHwCXXh4Bc881CKQqp9jqpFqzkAsR_k1m9hs8jjZefnMRoPEIAZHFenKJR8goK_GO/s1600/IMG_20250208_022239%20copy,.jpg;",
@@ -634,13 +613,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/mutsid.html",
     "Category_label": "Mütsid ja peapaelad",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "TALVEMUMM",
     "Name": "Talvemumm – soe heegelmüts",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 29,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPgOacdThn7VkBD5owIdWF6Kd4-ICyF7okttGjIHqHjG6i7Tnok2zFsCKuhKGRQxXQ6WHwiVsM09kGDfQ3yiFook6RHZdeQmjTJw5KXgMNg8_JnK9CCfI3vMLSsSp_dMZDrUoZPqb2sZeV8AnrnRkyLAsIbWk2TnRh12ZNSncfOj9mUuGzquUrywuj/s320/ChatGPT%20Image%2012.%20aug%202025,%2014_30_08.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9Pl82QeSMrIVvKLLm-BzismR3ZM3jGySG7kg01ZxK4VaUflXi87SH-pMNuqS4g1THFT_Myz5YHWSNu0sOs6pO1vxFd8Ank__zwPZ3IO8xWy0tc_OsDmrPy1uKgzfcBkPjmZLrwviI7KUQRQ168fDPdOTYlaZ32izFJJ7CjsLzHRL0nQLXNfcptjoh/s800/toottepilt%20taustal.jpg",
@@ -663,13 +641,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/mutsid.html",
     "Category_label": "Mütsid ja peapaelad",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "TUTIMARI",
     "Name": "Tutimari – müts tutiga",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 29,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSP1p-Q_jlxP2mSSkqj0-9uEsh3ix2V1mNPqh3n1r995zLxXTA4TDeemqfUziPSr8ZvR0T2_o3pJDZ6uIqihdHspNeb3TX0Z4gACJLSXSLUchgj55cFaOpvgSSKZcqzRGRhTmun-ZdFobBgRgsFe2xFoEwXKeg7Tv2I2Ya-3e5t6JwyrOmkrmOoDWd/s320-rw/IMG_20250208_021241%20copy.jpg.png",
@@ -692,13 +669,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/mutsid.html",
     "Category_label": "Mütsid ja peapaelad",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "LUMEPILVE-LEEDI",
     "Name": "Lumepilve Leedi – heegeldatud müts",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 25,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3H0akrAoS6ovzXN55RrkZQFG1v-_hfhUIAXdThWriz7KQVcvbT_Kv6iwk7cJ9qs7FGZleQs3NKXr1mMJVJ1LYeva-V8dyDFb89J-4v3wwPjhAfkPr0j4l0gIZb10SrTcUvTS-N4cbmoSQTtKRYtUtkUcx8pY97jWQ7TIwqeHlG0muLNrNlKVPToBh/s320-rw/IMG_20250208_022459%20copy.jpg",
@@ -721,13 +697,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/mutsid.html",
     "Category_label": "Mütsid ja peapaelad",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "HELBEPARG",
     "Name": "Helbeparg – heegeldatud peapael",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 20,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSi-1Y2MI-f3VEwwaJ0ouMNu-aYWb2BBpRnQwLAcfn8zhtGM1u9ifKyt9Uqr2qGPnDszI2Zlv1GFqSIBM7FxL0VxpFjlE_XDnNWLJ_grdMKj5v6etOVN6ViE4tB_s5WdnYGzVwx1z-99s9_uchp083U-7Gv-eT2-InO7qkOAN25i9CNPMzK7LxUOla/s320/IMG_20250208_022745%20copy.jpg",
@@ -750,13 +725,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/mutsid.html",
     "Category_label": "Mütsid ja peapaelad",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "HELBEVOOG",
     "Name": "Helbevoog- heegeldatud peapael",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 20,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8IzkPsyb7PgdCPmARvpFuXaG2EE4J1gzj1RWkzItyDDr7I97G09zCsVoqdgjbHwNENRk8BIULBPO2dkgz9urSQBr6O8hbmUTD46KsxM4CMhKeg-1zq_ijy2muDqzceps1uONEi1DgPRrszKCnu5_XiHSzyPlDbmOH9SBN9I5Yh9Ug_RC4bFNrkxo0/s320-rw/IMG_20250116_204615%20copy.jpg",
@@ -779,13 +753,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/mutsid.html",
     "Category_label": "Mütsid ja peapaelad",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "OHULINE-RAHU",
     "Name": "Õhuline Rahu- dekoratiivpadi",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 25,
     "Stock": 2,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwJXoN2Eh4qRFAIY6NGhdbLLQTVKAM4Z1oRcYzT0oH6eSuRm2WqXEMxPnNJdh8TcZG_E-NyFQQTolqBOZhj2CyR3mkFmwhK1a5iVpXdKYvY9QGQ1jTbiz3bxffNLMvcV07N36T7u7z84ry6qtiYXUzlPP2W7jR0L90Y3_dac3he38_mxji5dGYuu3lxAc/w400-h300-rw/il_1588xN.6954078948_k1uq.png",
@@ -808,13 +781,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/kasitoo-kaunistused.html",
     "Category_label": "Käsitöö kaunistused kodule",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "KARMIINPUNANE-KATARIINA",
     "Name": "Karmiinpunane Katariina- heegeldatud pitskrae",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 18,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh01cMOejsJ1BhHiVSXUrchTHG8EYdpQTxe508R-5BQuhs2VhETLACXHXgMrr4BTDD5l5Y2j2veWiQ_ftLBXhrlpVbtnMOjmGb0WA6eRSRU45VD1DwUAXYIXUlACVf_ZTx2Ikp0mnQLJrcImGJqPk16APAvxXTiLXkuUmNGTZ_D1b-_32SX9qk2HhiwjXU/s320-rw/krae_mustal_kleidil.jpg;Punane krae",
@@ -837,13 +809,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/kraed.html",
     "Category_label": "Dekoratiivkraed",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "HOBEKASTE",
     "Name": "Hõbekaste- hõbedane pitskrae",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 18,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHtDArVak4ly7FxGnzTKSU1UQnO8fb7sQutT05PNiuu6Tsz0OWrVFrOhwR9vLxBiTIzP6GnGBt7ypd0zkx8cMnDeRgNC4qcwFzYhhbVDT7iBqoYhIbKTH_xsIlkYXKH0v57Kdwi3aH6ZRkuIDJ4eqdpVAG1zimXpsHKJfJY0oVDyPRtWn3k2P11QVfajQ/w400-h400-rw/il_fullxfull.6972125861_fhw8.webp",
@@ -866,13 +837,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/kraed.html",
     "Category_label": "Dekoratiivkraed",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "VAIKE-LEHEUDU",
     "Name": "Väike leheudu- hõbedane pitskrae",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 18,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKIdZlAK-g3XUGiF8rOum-BUKsdQSGAhHc-130oa7AJx_bR2c9HTPTSUUyFwwKgZDGRdD9_jgIBmWiSqfT8oAQiou946DowZ_IdU81-G8Zzlsu0hf9F0Ozv7y7gjCAu9q7cFzA9JMWP3KkoxT8HY0UIpeWxSppXSRwGtK_ag1qwNzi3Tpy67anPdUaqtk/w400-h400/il_fullxfull.6972125643_6t2y.webp",
@@ -895,13 +865,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/kraed.html",
     "Category_label": "Dekoratiivkraed",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "PARLI-LIISA",
     "Name": "Pärli Liisa- makrameetehnikas vöö",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 20,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNLtXfQNz47PCp7vP_r4fB9uvZkJY1lPMUIyCc1Jxsj5zJHa799xgoJJnG696Grp5UOtFJpoJEef-mtNyJx-8BCl5Bfac7RxFwy5KoFzFN0ty-djOSmfH_Qbmm4Gn4-kwBV29-iAB3pMV4glKWLpHdhXn1yExyGGYahLeqe-ed0eKnonmXlzbeqyyY/w266-h400-rw/il_1588xN.6957258082_a3gr.webp",
@@ -924,13 +893,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/vood.html",
     "Category_label": "Käsitöö vööd",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "SUGIS-SIGNE",
     "Name": "Sügis Signe- makrameetehnikas vöö",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 20,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUsjcR43haQPaSAM-zEU6AyvmQ6QfNn3xlIzHlPRhqEyN8OpZ67F_mahQD2P70l4UUI9rVL3bLpPvTFYvKaJ7qt8OCDquMI8ULCPr8eYRZsCKrl4qcxug3zWvNyUUg4cj2oO8pSlgfyE1Rw2PAe3552fK7m_fCl8NbCdeM7oP0qvcIQykzNXjvO_a4/s320-rw/2db6c7bf-58f4-4266-beee-0b6574bf2cee.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUsjcR43haQPaSAM-zEU6AyvmQ6QfNn3xlIzHlPRhqEyN8OpZ67F_mahQD2P70l4UUI9rVL3bLpPvTFYvKaJ7qt8OCDquMI8ULCPr8eYRZsCKrl4qcxug3zWvNyUUg4cj2oO8pSlgfyE1Rw2PAe3552fK7m_fCl8NbCdeM7oP0qvcIQykzNXjvO_a4/s320-rw/2db6c7bf-58f4-4266-beee-0b6574bf2cee.png",
@@ -953,13 +921,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/vood.html",
     "Category_label": "Käsitöö vööd",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "VAARIKA-VIIVE",
     "Name": "Vaarika Viive- vöö, käepael ja kaelapael",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 25,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixwsU8ALj08newzlC7C4kAueDOiEMx4gV-Z8EllBgxXVE1gsAe4xjLxTtB9j6TnrGBjevTW77OwuB2TDjow0JBx8F6iL9D_E0qleVJvvx5F0kRX5r9N2DFPzsMLqahfjRpdgKosH1mkANT_kRNYPIhpw5bwGwnLhryGnc5zERod7khVDo-v-TccdhN/s320-rw/ChatGPT%20Image%2010.%20aug%202025,%2002_14_27.png; https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKrRZQJqyzSZRxKBbkcFMUUYdmocom8YC6uI7YB8BqSGoXMPUzAaM0PzfZVP3zT3dWk3Fchj5WY5MojzreIKylEgQt-VRCcCc-0BenysckmRD85dPw_AF6mQez1DSu92qQi26-1vWACqcSsTpH_rJjksJ1pIc_-SixhQcbWuTocWQ8rc10bVkOY6P1/s320-rw/c3f7d6c9-46f0-4a9a-b6e9-ef28d07ed209.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZbBLkDg2sKWsZRmZfS1K4CTvwtMGZ-Fb621oRpSvSGZYDra10FU3M6hidckWQW0-7FTWM2BzLHSVDIwax5uq55Bxsa4x2c4wxXQ-U0_-SOFpZjXRc26mCG_HmIymCaDLqD-BZdphpSR11u2PeF8IcN2ehbaeX1L8EsWruLWXKo4BbLxnsSp3YNEq0/s320-rw/ChatGPT%20Image%2010.%20aug%202025,%2002_30_32.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh7B4FrkG8SbQSnUDnemIk1kYdWRTXeWXKDc5bUN5-b1_4M0KDYPJ1T1GqqJyZ4wXdHdVZRPJ4125w7qCykFDWyV1iRwHlyGWNKpWuSyUGsgzviYy42AQyK1-z4Wck3EFjyZYlF2kStPt0oQqN0Pi-Ay9Wt3YWwBlKsHYGi9yq_D44sy0rimXrvZwZ/s320-rw/IMG_20250810_012957.jpg",
@@ -982,13 +949,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/vood.html",
     "Category_label": "Käsitöö vööd",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "UDU-HELMI",
     "Name": "Udu-Helmi- makrameetehnikas vöö",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 20,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJcWq373UpaWksB2mQuX7KQAcoKo6T1KSvg4_U6AVWMuaOJwD42ZFrGDCSGnSLpRbP_g8LiAYeDRaWdDe1kdro3UamXmSNE4B2f_rFomT93DlgUGlrSm5RrcHX_DYsB4PHt0sP1FKtllj53EpKbKy7Hz2YYjLgx4El1BMgCFuTnkJf88GmJgzbvB6y/s320-rw/2276504d-434c-420e-a3a1-6208ac48354d.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaN_KtnxOiFgc194vgwDWeoZ1JWOMJpCJhpcsd_xgulLPDd2PY4WFWRqsCMDij3exrvcGRPcbDEiwJuFZE6YaWBHjuzQ72gMbYcinY8u2dZy3g3w40T4c6Cvn2PynK2SEh-q_L5mQLJCkQISGuSvzz9CDm2D2iyjGcxUSC2PX-EtePfJgWqxWqW1XP/s320-rw/IMG_20220917_180458.jpg",
@@ -1011,13 +977,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/vood.html",
     "Category_label": "Käsitöö vööd",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "PAIKESEKIIR-PIRET",
     "Name": "Päikesekiir Piret- kollane valge heegeldatud päikesevari ",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 135,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1dSf04YVlHy63Vqaadd5BWKnQ2thiEXIxzbgJuFpEZQV5StZrop_j6WXraeY7BmWMof_-PCCS9xDFbKYYpLX1gv1TK_2tf-IqJAjO__AYOJLGKpTLf4lM4iicf4kYwpcaI7ShMq-0t6ybfJ0EY9tmyGTxUgctVX53L1wuPE9Pqf2hpeVPFRaiEfkvMe8/s320/etsy6.jpg",
@@ -1040,13 +1005,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/erilised-aksessuaarid-kategoorialeht.html",
     "Category_label": "Päikesevarjud",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "OOVARJU-OIE",
     "Name": "Öövarju Õie- must heegeldatud päikesevari",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 135,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZbDnyK0I_wolbC3hilNlV2NuR7LrX9pCc3hjTaS6eaju8rvRXVx1Ane_wxXJr6IgytCubSJX9CAL0p9uOsHNuTcOUNHrbH9aoANnVbNRlGRHCz2vL70Kjo5SwCYqeP4AZhg7WZymo1zFCQ0ETTjJq8qd8KQ4KtSs_zOeM3VrpLLnEqVXcVL2o0rGfRoA/s320/ChatGPT%20Image%2025.%20aug%202025,%2020_11_40.png",
@@ -1069,13 +1033,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/erilised-aksessuaarid-kategoorialeht.html",
     "Category_label": "Päikesevarjud",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "TULIPUNANE-TIIA",
     "Name": "Tulipunane Tiia- punane heegeldatud päikesevari ",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 135,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGdO4zm6trOZ55dJEDAxjqhsKAQoH5HqEmax25f16R5vH7orl8rgq3uXGQXlllX7XiHBMj5HbpvQOQLYsipsJl4SF5Kn3QRr28emT87AZzuxfyZya_roEhRhcPTvKbTa08aFGgkCDoGxn5JX3GXKh4NCI7G29Wm09ndaeoQZ0Hm-z3b176F78shWBFLAo/s320/etsy4.jpg",
@@ -1098,13 +1061,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/erilised-aksessuaarid-kategoorialeht.html",
     "Category_label": "Päikesevarjud",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "MANGUTRIIP",
     "Name": "Mängutriip- heegeldatud vest",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 25,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggw9r7w2jRnzP24ocgxN9CJXGgwnysFN7B0mOsYIgn11gbtIgP1Ugei3P2F3nE_KQVxZbVvnVwp9-fBcCVpsV0COiDc3__CLjIsRvErymKivF0N2FVFfEPjn9qI8f_AfnTrmksR-ovrVkZ99I4WpWOfnQNpm_jnCmcb-Nrgq27icQqa2YUkgDxQrzU-do/s600-rw/ChatGPT%20Image%2021.%20juuli%202025%2C%2002_48_20.png",
@@ -1127,13 +1089,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/lastele.html",
     "Category_label": "Lastele",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "TALVEHELLUS",
     "Name": "Talvehellus- müts ja kaelussall",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 30,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSHoGXSZw-8ur8BMZ9NuRwIJXY0JOfnHcGsI1rPE-7PEAK59usgL6xPdOZihXOeY5tVWYogapCqqLPuA8fRqbBJpqxt3Ju9Ru8aR5cZDUHAZfMRdTpcKHHKjgWhycA5gcCJW2RnjsGHRgEaJLSNlLlilSiq8ctiwtW0kl5E8fTlHbZLHGWmQ4YnPz_/s320/IMG_20250813_224708_edit_38106278980122.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbISH1Bc3ocs4AFIEjqNejkyKOOLgUyjGrla3_s4IAWMDCH5VSMsAhvXzgdIjJ2YPIlW26ymBlUZsZPKloe4CsPpWz855dLJr6gWzKzKw94-SQYESRQ5OAEsa0OCDpHQXcY5RGFehaNUTD1UMuwkEtzDIjAHO5h2Jx2V8r8FgKsHh1lrvjGHoYE6Dnw1U/s320/IMG_20250114_192053.jpg;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNxDlZPy6QJN_rk_AbnZOBD_NbAb25ua7P0aOoY14h4MsILypw5fbZXgebesCmcNX8PQqjU-hea_iTelymylyqv0TF3AY1dLcmCQK65yxu_X2VniepHoUczkciT-WbM7_nxzpBoD2UIuiA2Fi8sv01BDOGidkTwv0BpPV7cb6Gbx3O1QejFPwEkYLMHWQ/s320/IMG_20250114_192111.jpg;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFP5Qhle3PTMmXCzpgTu35j2uXa_aou0vkW2PoxsdDOnRww-bYkbHyqAk6wxZLpiGkNkfrw5BYwvb0IL8X0v9ivPfgf-6QhoYcac7xpK17_KLt2H9XeXmn5pBB0a3AkjepQJHpK2WWJv2n0GE0y3VWeE__mkr1LK8YVXmePYl6790pO01Z1Y1MxzZI9rE/s320/IMG_20250114_192209.jpg;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjENVfR2bCcODI7ASwTrv8156eQTTla3aSp911q99DwSgAI3bHG3a3kPumM4HlYKWsQl4z1uwrgicRahOvPA0fvRwAHYTo4-qXjKkJSozOY0XGn11K41jcYtrWYRSAvUohaH-iEOJbZbJyU3iS5jlqKUCejwhXDCbAEOo_SgK-1bMuPwB2gr_rmFXXvu_I/s320/IMG_20250114_192116.jpg;",
@@ -1156,13 +1117,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/mutsid-sallid.html",
     "Category_label": "Mütsid ja sallid",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "SAMMALHEIN",
     "Name": "Sammalhein- heegeldatud müts",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 15,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguUEOaxcNjY-25hrYzkrJIQGwpB9KYrSjZ6pRpqTVxkAIrTZjpoMUM9H3Wfz0dQRpFPkP2v2DjdiChYJxUoIzc39YE1qXSNNhewO_WY0pkA1-XWYAiU3b7hJmshDInlms5365OCxO0y6qD8es4m6VTCD_dflN4t3Pqd8uQ-p_UXGbJJd4rMYyh0stB/s640-rw/ChatGPT%20Image%2022.%20aug%202025,%2001_33_04.png",
@@ -1185,13 +1145,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/mutsid-sallid.html",
     "Category_label": "Mütsid ja sallid",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "PILVEKE-PAI",
     "Name": "Pilveke Pai- heegeldatud müts ja papud beebile",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 25,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRkkmkOi5kQfqp3k94xR5HzVf1UH6MBMyXgWr5Jq9XRP8nkXBKLH6hZ36_qz0V0StyDeP0DQ-7qUXK1D8sJpBZlRKQCfp-2pysdT_RVAX0RaV3jU7DUYkIS_qjVxAhuT3aJhpHkvYdmrUOQV-qB5QiJnKBGxmmzIx8N35CgKWKRTc1fEhjo26mcaDW/s320-rw/IMG_20250821_114853_edit_81240278759478%5B1%5D.jpg",
@@ -1214,13 +1173,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/mutsid-sallid.html",
     "Category_label": "Mütsid ja sallid",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "VALGE-LAINE",
     "Name": "Valge Laine- heegeldatud bikiinikomplekt",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 35,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA8oR5__C4-TYYuFfn6wyU6qhdBvUfIwSUDbeDRuQD_m0sd_Q4zzqXj04GOHaYBxGnbNo_kWMcBkUgBJOrM-C8Ob8tdgpKv6i-9W9T1YxhHRXnvjaI2DZUBbwdNFGQdooVpqjbNxtd-TiajzRpk5XFFPYMdeBB2QXt8P1Icf-CBoqPj2f77CIJRz75qsU/s640-rw/bikiinid%20seljas.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb3-OQzr6Lg-YCcTYUzY14Owc8t-DjfLCWNf_6sGNNwlBlmW-KBWP1pRm_pZkn9e90ckzROtRiWHUn48RdtutLtYLeQekrckEdWc7bgRiSibOByT-y8I_A_bGTnPsecp79DuGvnXCVu-j5OMgmw-ZNiWYqEzo79WllCT3Qq83U2uzxL1rJQMEVjkw7Gko/s1890-rw/top%20eest%20ja%20tagant.png",
@@ -1243,13 +1201,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/rannariided.html",
     "Category_label": "Rannariided",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "PAIKESEPITS",
     "Name": "Päikesepits- heegeldatud rannakomplekt",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 75,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjimkBMa5TnC_QhpaV63ALWXI4qITD6A7jwagQ2wx_vHxx_uUgFTi7q65C5YsVXdwXNcKlrbdzDtszDY8793XW7guAacw3ibHpBAXEKujzHYNRMkLkAsrua8vlEv5iohIBUcQVEfbscOt1Bw3DuHngXaYLojMw5CSvqChG82q9crMz05z28Jj4RlqeodwU/s640-rw/ChatGPT%20Image%202.%20aug%202025,%2014_38_23.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEaZz8fUX1FWEhdf7Dj0iCYtp_aMaQW-EeSoknUBLp3Qqq-ppOsDfGY5cqZLx52F2MrWgoL7gWVXUxXO522zg9x5zjQ2jPbGofhnQukfoOav9oWkDbiHEi3CSOE8r01LRDV-lqyCXTo2VIW9WUaLZTRldkwEqywL4tNtJmHT4e5uWTmJK-YA067nNa/s1890/top%20eest%20ja%20tagant.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguNUKipyKM0wvCVQasOKCN3yA0rLYB1kPXrdzFt_lSh5SKJqm1mfvAXHu02qSiHWWwRlMFuhPwoxzdJ3xr41_3k7elc7NN8r_3Ot5Y1FS5P2wfiUyez92qvWuloITXMLAM8n_DxQVJVjGem2l3UfCA9Ml-UHXAH437egzAAjB89hFwnb8AC3ASHrDZ/w400-h395/seelik%20eest%20ja%20tagant.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSdF9rHl6w3scMNHiOpYYka81Q7EKlKP18nwzfZN7Yx4ZEgtkOqIfnUXNFUw8Ki34IbajVO869z9JTn_bMF0RtCHdkO1JRYJRHK3q7JuDX3SHoGdC29HDzL4pDbKn2YbmvZBhYlZrQ4W0MERBQPhzJT72PC9_cGHlwLJRaCYQBpwYGxWByXihKneCR/s2048/h%C3%B5lmik%206.png",
@@ -1272,13 +1229,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/rannariided.html",
     "Category_label": "Rannariided",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "NAERUPALL-NIKO",
     "Name": "Naerupall Niko-heegeldatud pehme ahvipärdik",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 49,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnLQrfPnICq0uRGnMOXZrXtjL4Me_KbmDQrJ9PfAY3OQAhg_OOYvIROBbv59051ZX0y_05ufK5Ep4srbcrproCD3rpCY9p4IOTFF2is7t8sWotilmE2v_FyZQhBxihhzikxw_eO5dKplVoF67i16Z50VIxEuZF0nDP8HA2dAGc_aLPcbtPpY1tRWl2/s400-rw/il_fullxfull.2986277179_913e%20copy.png",
@@ -1301,13 +1257,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/lastele.html",
     "Category_label": "Lastele",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "LUMIVALGUKESE-SALADUS",
     "Name": "Lumivalgukese saladus-Mustlaslik pitsrätik kolme värviga",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 220,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8EQ-1YpHpvFqnAKtimiRdBwC0AzoniZNBXm-NdeZsEUXaaDJrYvgTs9bHuN6uLUFJQd3LAZaV2yY5Ex6QAgwmRUz7IdM84U5lgeaLEI5fdD9uq84rn-0FNLuTnigkaAVjY5ZzWHzOsu8JlinxPqp4ZqwAYifhsRtVS_HI4hb6AiJhM1iLbuWZt3Ne/w266-h400/suur%203%20v%C3%A4rviga.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuwbEvx_E8F-pGJ6qSHxGps074BsVbJ80POxTF3zyf5LoXJi62ceUqD0dsvzOOSErD-A-UO_0qr-SNXgbjkx-1uT21SVNODED1OrknmjxhROE3LBZ_yTC0mnoLI3sqhsRsaGx73ClDk3uUfTocp9DxWjsqcxMg90yo7IIquIXtqTns6gxVEbV_qXs0/w266-h400/suur%203%20v%C3%A4rviga%20tagant.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimGL2LbrnT1HRXu4dAeqddVsPQHYyCxj1b1Gc1v2MiYESNj13h1PkrcEoZJldpFyK0JzaOYzg_zU1xPxj_DP4VjLs4rIoSUGCVc7tlAgAjq1wZAAgc9wboPl1ulrr0ufu_DaTqypvWUlR3on65QgGDT3uNhBvLqfs9OSb-Dm_rvxAprVbm3znfIVZH/w300-h400/IMG_20240526_153644.jpg",
@@ -1330,13 +1285,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/sallid-ratikud.html",
     "Category_label": "Sallid ja rätikud",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "SUDAMELEEK",
     "Name": "Südameleek- kootud punane pitsrätik",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 165,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6u2uqth2P6Junxp4czYk4a94P5dIqWXTkBSIPxqEBmlAo7E160JHuxugQoCXU45xzKgR0cxxdDLLphgWfhVwbkhm-ySLb0wdcaHhmq13TQ9WhiKM0m-VgaW6qKK4oa0gnp0CoyD5Pv8QGtRW3xTxv6VvxYOkWIfoE-cmsWsjYZ5J3hHbApeEM_F-I/s640/ChatGPT%20Image%205.%20sept%202025,%2022_22_34.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxw26xZBqjRvV6VV7dS5PJ9n6zqxvjoIaEg1AVgZoQ816yMjJzeBKr_KIWUIWZnpsqIhbc12LEj0DiJP9f5jQbm3DXiD_KVqTDmn-2I_oXdcuA75Ew8xMs3ONmBl-MnMuY5rvArn9qvOinIjBwEK1nshwrya0lMywJ0OWC5pHZmoEt7ms9iReaKCGL/s640/ChatGPT%20Image%205.%20sept%202025,%2022_26_33.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOl66-CeyUSBdV0SauG1jWoY2kejIdDTENsioM4FmAd2JHsuMtN0pXKgiuMQldSqH5BiuHuDbXRTObbImhLEDF9fBavhFdjTnCIamTPbepe5rJPkk4OnBtFdjVvgfXPCEmqSEghk-RbIhRNvgSmoI3Vsl4qn7PAaCX6pZw6Eu7UZGiCvPsBlfHrtsj/s640/475022687_916207823832974_1119164560468072655_n.jpg",
@@ -1359,13 +1313,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/sallid-ratikud.html",
     "Category_label": "Sallid ja rätikud",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "ALLY-SOOJUS36",
     "Name": "Ally soojus-36",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 49,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfO81MuWau-ne3w_32SjpHoOXhaBQGYYEoBAn8dWbZ4d6AcpJ-B7eJf1wdgFNBXVe5_r6dROU4cG8bqkpSSrr7_k-3NSD9sL64MQeQLEuBAih8emy-aUPyPHotrkD1rS8v90ZaYqHI-YYCnf7wn6pSUO9BjxiOGSdv-aq89HyngplYjyOOsKjrvT9lWyg/w400-h300/IMG_20250920_184636.jpg;",
@@ -1388,13 +1341,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/sokid.html",
     "Category_label": "Sokid",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "SUGISKULD",
     "Name": "Sügiskuld- kootud soe müts ja torusall",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 15,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjbNJkMv1YdGFAqCrbclgofiMEpEoq6kk2jFNZkgDO0E5VnKdVHSenFbr7cSBC9CZOIAl38ts9N26LCfeKY4VpRlITE_F3Hr87uc-CiKbSa6PXH0bSqPRFMc0reNlf3rDKRaOhC6SH89oVv7Qq792BWo_1wbcmPYb2OoxE3AsWdxE5zGsKXoALkFmz/s320/ChatGPT%20Image%207.%20sept%202025,%2017_14_39%20copy.png",
@@ -1417,13 +1369,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/mutsid-sallid.html",
     "Category_label": "Mütsid ja sallid",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "PIHLAKAMARJA-PIRET",
     "Name": "Pihlakamarja Piret-kootud villased sokid",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 18,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb6aNZ76A9hdOYXTeHjPb2rScnflz4ad9c8PzQaT6vs6meCHfGBSnKgyqtIQT-9mmJAabhl5ih6d2jbyrjLNkl5uarpoijnR-wtHOpbhYAhxWk5WqTKVxT9o5I5bHqtkmCECmPYt2WbGY3UekewINpJ6ms39gtg7a0CwMsttFzoZqg4J0GCB1JznNSLuo/w400-h268/IMG_20250907_144311.jpg;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiX9KKeCycQ0zol4kzfriWrIIXZe5eCQYLgpvbiKSLMX0T6nntXr_ZyS2naUo2OIJMRgLx9AyPLvkglVjJK88OyGFCW4nFuzfEGQt7e_I3Amw-p7rTJsqQters4ZmhpdZ_gtUIlrxt5o4otiTw6OR2Wi4_kjcxlM8xi5SVG4Ibs0kVZEG9wzImXrLivx0/w300-h400/IMG_20250907_144338.jpg;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIln1eB5u7Hwujy0TjebhUl6laHhJt-owdhIk_KJDZ6CBwtdtddQ_i4nUnkn5VTKuu1BBoBlneNx-Y4TShk9qy6DwVXSLdztdM5S-opLwumUHVcqEHpe-GhEYB3ZHr0tbROYb3sEsCp2xElGAJUDytt4spFw9Ze4seQManFK2I-Zyz3UHze4SML738L5s/w300-h400/IMG_20250907_144344.jpg;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5180O1h-WPFCPFCuSe4f6VYNqp4EQjFL4VZloiBFIsnhVhsvzocZEkGFpvV0Pen28FnMY1jAHOVQJYGcclrjdrw18w5HGX3g97f2GyrmH5LcnVK0EwhA86OHiiLiD1cN7AdHWjWSHfWcw4Gy2b3agA8icfZvWGHixosHflQ5J2gFW2JGF63Yb7639of4/w400-h300/IMG_20250907_144354.jpg",
@@ -1446,13 +1397,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/sokid.html",
     "Category_label": "Sokid",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "KARUKASUKAS24-25",
     "Name": "Karukasukas- nr.24-25",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 22,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikjTalYg0_6amo6bUQdeIM2mEQD5GrnyA3mjQkqb6LSze201z10ehZ0O7d0Efzm9uCJS080kMIqzO06aFExAD44FoZ7w2ataNNgMYcsctROdr4TPFHGY0ZZCSkG1Z6SRFZzSOzH8XuzsxnyquqBbB1TUFqw6CYstx-SVvwL7nbmnhCRwJq-AoHgiCCr1A/w400-h300/IMG_20250908_193039.jpg;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGmjcSMiIqyfW_O74C87eITNppwgpXms3cgBOFO8K7ZAU9k8taDtx4FXGHVe-pC3Y1tB73xwM5FzwW3kfjstgDQkTNPdVuoqoIed70O8OEiwk0hyphenhyphenCW1fhhIIZ708AQ8xFzpvjWWxzXnO2eQVZLcEKDg1Zbuo3ZSwsNSTWaYIRHYvhFXQuO7oeYgiii1HM/w400-h300/IMG_20250908_193003.jpg;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu-ceas0s8VFbkH8y6ErxYM-2hDIy_yAWBxXlIfnkvvWIXkLt-hFT33TQ9Nks3tm98bxFopxOwXN3Z3fiuiAcLfPHQ0DOhrOFhGnK8bxN0__FaTIPSUFCt4aEcOnmaGDtbpEWBH679_OIkeaWFWkEOS1OcKISINaqGc-e0dKVGGteFz-IKvAbStDSUmnA/w400-h300/IMG_20250908_192958.jpg",
@@ -1475,13 +1425,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/sokid.html",
     "Category_label": "Sokid",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "LAMBIVARJUD",
     "Name": "Öökuma ja Päikesloojang- makramees punutud lambivarjud",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 0,
     "Stock": 0,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNbg-QA1MUpApApmVjCg2TvCdSyFWhhy2TSAmKkU6G1N7sDPsDFe4QktIrF437jGRbdkJsznzB7wo1Ha36kBOlCS1BRd_r0By7O6k698PKGzku7XYBF2V2yYNUaQhSqKYbYNoykqe4RgVEgVPSIxwJ3md1qp9XUfkfhiiTcPwPwDKTzDvui4vdhzZEC4A/w200-h200-rw/ChatGPT%20Image%2012.%20juuli%202025,%2022_19_27.png",
@@ -1504,13 +1453,12 @@
     "Category_url": "",
     "Category_label": "",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "MAGUSMANN",
     "Name": "Magus Mann",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 30,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkXGrhEUEKEfQxP-w0-Mjs9p4QzRw_Inb2i2W2SiW-_DWittZcpiDzVKaz8p12A9zEgT0tVoJuW1-gFHM4A5qUZDHqDNZvU-ROedHh6jTpixQ6sA1msbeX1Vn8PqVrVWSP7qvDhmnnOcNIIG5IHjnZCkAgK6t8o30GRjoeOvX_t0_eG2HoLVRaHy2NVTU/s320/kott%20punlilla.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigiVRR0Rcbk_Q3shzenW7zo1J7yCr4ypdIXZtJD5s-QZz9u2MMnLa6taitcQYnUE_votAxrYi6Qc-8ubXbVceDmqRK-UPxN2le1omnk32XfewLjzEpZsgDue7YJHirjCghtqnz3EJzChNhT1w2uroHNRYn_GNRxVP_BGNkhu-Z19Up4ydLq3uoezY6nYQ/s320/IMG_20250518_181209.jpg;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMCwuLuEP0SAc9FEE_9_LPQCKOeROInKmWoy42bjJJXrxdj5R4BRzApqVHbypeF6lZoWnCqlEROhndOCi8H-voo3gbLQa1Sxxryy2AlU6wLC5sBnj4MMv-nDWS8K3SmikrfOitWYIQ8zIUbrONd9n2psMwD0XWHJ1X3eX_tU1qq0cQRCtdubWmTGXC33o/s320/IMG_20250518_181158.jpg;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihpvz5zvtmz7dft-IdLm9nrND-dUmMY1bGTbzHho82yOwTgHDOg6L_v54Pkpa24ND5w4keJeZP6T26ZKCvGcLOD8Abcg4Vaok_wxA64NAq2WsE-d1b4vOXDem54obYKxQlOC5ZC5GVNyQ4Tu6i3z1ig5MSJrHyzFpzKFaDdJ9S86N2mPPJO0s0u8wpGZg/s320/IMG_20250518_181150.jpg;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7fZuunoW6xlprOyg5VENlMAhkjY_BhR-EZMUOZAIYOh_9pFyBjI3-egUSEoUNEv-AUegRU8nlyX7_zVqpIqpgEWQRFJFbxr0r3RyPhEhoxC4mUuNUJCtUVyCwaK8KiI3xMf-zawdUvqvvrV3Q7YgnM_Ap-1119wlXIxKYSexcLIE33r8UAOj9V07C6VE/s320/2%20koos.png;",
@@ -1533,13 +1481,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/kotid.html",
     "Category_label": "Kotid",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "MAIMUTARKUSEPUU",
     "Name": "Maimu tarkuse puu",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 39,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdYODBy7bHqVk7lMcl_BsZ6DBrghq-yJMDYtBUfuYEKPPhz0Sp-WD5yL3Fc_HXYg02C9kRSGL-vEmyeCxpoZCiL9liL_YzFkiByTSTuZqZZQ1ypPLLZQg_cPip00uXLm2z8rRQGk6x4v8BVlPKJQt5zmMRdrFPxhkX790obqaKK-f_8FsrIwXjWSSwvsE/w400-h400/ChatGPT%20Image%2018.%20sept%202025,%2017_53_09.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzXRaHXPMUEVKe-G8tCOy83JgP_JfY9D60ASzLnRz13fsOn1yDScIvJMudS4KD6bZxJ7hvyVhWZYAzNLggBBt4MP1BOmBShN0zYLHHM2Np8XEIrtNmO8Kn2gFmXRQm6haLdpF-9Adpc1YyWX96WeSA4BzOOvBEjlX_5CXaRGo4nU0LfpiB1t27n8FG57c/w351-h400/IMG_20220922_052701....jpg;",
@@ -1562,13 +1509,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/seinakaunistused.html",
     "Category_label": "Seinakaunistused",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "LEHEMANDALA",
     "Name": "Lehemandala Unenäopüüdja",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 59,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV9bfEAZt96Qhil0EUw-PXK1ODId62gRBWTqvR3VGiQlJZbXyztAEpu6z_KXZOJ5skUdh0gVL8hyphenhyphenEjcJtrIPFApYx_VWXh9pbJSBIaUwtRCbJyPK7DR_dfcXJqEoiAp58WfVVXpSwB4hhhRR5xI0E38OSj2dN0rZRRDzjC1qNpKmtcMARYtammFCTwx3o/w266-h400/Heegeldatud%20unen%C3%A4op%C3%BC%C3%BCdja%20peene%20mustriga%20(1).png",
@@ -1591,13 +1537,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/seinakaunistused.html",
     "Category_label": "Seinakaunistused",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "TULIPUNANETRIINU",
     "Name": "Tulipunane Triinu-heegeldatud kuuking",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 65,
     "Stock": 0,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg7ycnhC0fCNGugT2fxH9W3H47V1W67xKvGXPblH9Q6KeTnN9yALfjT0LBYDansqVACsIO4kem_EI8KR56hvqPL7NiXQ0hJmRvl-0i_abdsubdkwVMshSYMQNxvfa1DH7vjpN7htb7cLucPrAFbqjpZO_zKECuyVP09hYE054F-jYOX0RJn_Ip1EKC/w400-h400/PhotoRoom-20230921_191908.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDK_0NJu59PVIEzRgWMbv5iDb7FQt8qfaXB32Y-VCNKmmKvzR8qlfJmME9IaRhllvuUxVj23bQ1NoAIoenseIXM8597UoZBa-3aaMSOmRlpflcLcJTnxateTlui6jtluz-sRYIL3XZB1k4r3Ny0Xm7KFGsoVAxnNMbmEDuzbCGjvxAHKHxE5ySb5I8/w400-h300/PhotoRoom-20230921_174338_4.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYJdMUIdWZcV_FCfXjhdV2ouVY_act0dJdevllmi6Af3sO8fmq35Zbaj81ZbTZxD2WoOjSS_3qtcdvqlLYySOOFBWjEVn6B0xdc7lqprIUa5XWG761fGRYUoydroz4-ujecOyUaDB9KuFD-xORMh3pQyN-ZCwiDuXV_8v5S7TW8iwO6GnSfECKugY_/w400-h300/PhotoRoom-20230921_174338_6.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7AZtW9riDm-QOq1OwbqhBZIc5bWjqZj09J_V0jklqVW3NxEoZDutg528aMK23Ho6pz41F-TrqXpqj-v8VwxmqlyP5LZUD-FERh_l7-vzPGrdQMjnfQxVma9MyOpVwHFPPslfN2ZfXZu-vLVTMEeqwt5Wvl-HV4zq-vRMXwXeXkjCDftOfqWDTJSa7/w400-h300/PhotoRoom-20230921_174338_7.png;",
@@ -1620,13 +1565,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/kasitoo-kaunistused.html",
     "Category_label": "Kodu kaunistus",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "OHETAVOIE",
     "Name": "Õhetav Õie-heegeldatud kuuking",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 65,
     "Stock": 0,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilkmDwslwx6uJwGLAX9hpn47swDK1kBWKktw5Cxut3Xb_MWO3gHcxhiLuaSQjPdQyA69B9x02zwEcOhw1yEfgZz9a7tdyDLy_6u_wTLKxsST4VDEyb3HehCHSO8DoUnpNXcTYOG4gLNh5q8bU3t2nfxu12uxD9wMpWax840hj3Y6HxrCeif9Dr8Wdk/w400-h400/PhotoRoom-20230819_171958.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7AZtW9riDm-QOq1OwbqhBZIc5bWjqZj09J_V0jklqVW3NxEoZDutg528aMK23Ho6pz41F-TrqXpqj-v8VwxmqlyP5LZUD-FERh_l7-vzPGrdQMjnfQxVma9MyOpVwHFPPslfN2ZfXZu-vLVTMEeqwt5Wvl-HV4zq-vRMXwXeXkjCDftOfqWDTJSa7/w400-h300/PhotoRoom-20230921_174338_7.png;",
@@ -1649,13 +1593,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/kasitoo-kaunistused.html",
     "Category_label": "Kodu kaunistus",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "KARUKASUKAS31",
     "Name": "Karukasukas-nr.31",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 25,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSt4fxf7qwsIOZELdgQaYPZ5gj2UhktUWieHR5_63kqOA0FoG6UhtKUoVBm5rW-DKPFjNFNACLzb_rFV_F9KPZsIZh0SsK8I8Iz766FgPv2ycKKQT5_-MEtALRj3O2DqGuVWXOAqiKlCc-fkZtK8OsiZzOW5upTX6KhWrnwRS5b8Am96dobphgj2hqcwk/w400-h300/IMG_20250920_151122.jpg",
@@ -1678,13 +1621,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/sokid.html",
     "Category_label": "Sokid",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "ALLY-SOOJUS38",
     "Name": "Ally soojus- nr.38",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 49,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSt4fxf7qwsIOZELdgQaYPZ5gj2UhktUWieHR5_63kqOA0FoG6UhtKUoVBm5rW-DKPFjNFNACLzb_rFV_F9KPZsIZh0SsK8I8Iz766FgPv2ycKKQT5_-MEtALRj3O2DqGuVWXOAqiKlCc-fkZtK8OsiZzOW5upTX6KhWrnwRS5b8Am96dobphgj2hqcwk/w400-h300/IMG_20250920_151122.jpg",
@@ -1707,13 +1649,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/sokid.html",
     "Category_label": "Sokid",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "KARUKASUKAS22-23",
     "Name": "Karukasukas nr.22-23",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 22,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinmUy2gqPHR6eyjXc5NIVfy2km6kKzl5AadCeSWjx3qSntVOUXQZUEPT19Pg98oOfSf0LqVbmpqqmSClzmSEic_n7Dc8HKFwhckdzoE8-xUERrZVB3xxv_PJ_1AB8kdQ13p39uhCZL8xPf1coHftmEoQlEEX_yTQwDAyn886BoypayynQuT0rkYNGD_s0/w400-h300/IMG_20250920_151247.jpg;",
@@ -1736,13 +1677,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/sokid.html",
     "Category_label": "Sokid",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "KARUKASUKAS18-19",
     "Name": "Karukasukas papud nr.18-19",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 15,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5CciZ7E3_ZHz8Zh9s0wtIeSXzJZkXvXniOMBYb6lFil6oBqpJVprS5L9Kd3bIHWCeQdGm_IbpcDiUoNODt5hbLI041m0EBBUKDUiP6k1U-lhLDydlrzR9kcLeW6zxoXyT8oegATgqr1wkSGJSgfOB25j8CNwzMPfNL-7qKFzDFvNDYc4bAWf3Qjq1-hA/w400-h300/toodete%20pildistamine.jpg;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEtnR0xl6PF6jFNDxHOHoJ2PFekxCOa6CEq5lh_08GowCi-RwWDOQIe_qazXvauoE0Mm7eWN182SkqtpW7rwKmb8jWZ_qq5EKUkXN668Z92Kq2gKufpxFtP6i21qNSHyusQF2LIY_p_y885qC7I0qj9BD6x6iy2TU6BGWrelTQVN6BNLgrKBnkvQhkoGo/s320/IMG_20250911_171546.jpg;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_XqpyKFL7JkOueE3YniM3XGUQnaU6j3EzUrNGSy73Ahq4dwXj-Ar6uVf5tYNYVxSSvlpTTEnhRnRMst-3cUYHf3xkiZG0JIpbUky0IUUEnuqtiDVsnNGiGCLS5ejkK-DrOdP1ZpOTlPoVd-tUI81bgu6lXNHEv7vRslTpIHUG6BtgKOH5PndnlQ12iPk/s320/IMG_20250911_171555.jpg;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiHGz2W_zqIyCz9i3keS8U4ucxflJXi9KPcNPXu8b2L76u4uNtkyoq-1bP8GarQwHQPmzrAX00tvNvEBQzJAx6Vbfnj6T16hm92ZSLPgS3-iT9wH_hLQ6dSNsEuVGhnPlfiBfgWBszpWFo_xvBwjc7el0nynabwbSYd3f3Cdmz5u6O09rV2OuUw_0P9LM/w400-h300/IMG_20250911_171533.jpg;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbjp-j4_F2QeIx462eg3ZHbaUB9NS5VHMRevN7bQhBf6u6jUxl27QmLuDMEZttBMU_0iyKNOBKPaJpnj5s6NyPCReEJINWhd1FsZRPRdwKd12_vALsvjsujH1rmS5WCtICfKZ1USvoLptYhx4OIoabawowdkbXSDi_9KB-dAI7Bkx7x4famjwu8SVUZDg/w300-h400/IMG_20250911_171348.jpg;",
@@ -1765,13 +1705,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/sokid.html",
     "Category_label": "Sokid",
     "SubSubcategory": "",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "KANNIKESEKELL",
     "Name": "Kannikesekell- pajalapid",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 18,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrSK0MX5FbEK4ZkprV8_bWAhO5nK9StwCXKdGFOBjE-O2QhzVk99-gVatVz2N7Ytu5x6w2CNS268D2_s64UCCdnJMxQUkvAKsi6G0k3f42uIlBGAnFdYniTiwTI5Wlkm_jBUbYGQ-tTqFT0h9WQAdGQYGR9qYbXksKYw7Imbc1MfIIodLqYoPM4tYr3Mg/w316-h400/IMG_20251011_205733...jpg;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-WfvirHvbxESayeXGdvm0us1cP7-uD8oDJLOi1BLKvxoUzkQGnNng8rdjzArlTMz7e7f1D5lRb8wVCqBYsNgiW14Z39E68XZr6FKuf6TR_Fi9h3U8mFUU8wrIeSBgvMIWQ38vTiHZSpBKGvnJM5PAcSuqy76tjMzFhDUvPdc_m6tAnuJIlXtAF4mJunE/w318-h400/IMG_20251011_205745...jpg;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSYoQtAZKHSQNgEU-pBdIe7hF7S5AJp4UR-nLq0QSewfAVM8GG6akfFaQoDhSAzKkabWv-ngOMgJY788B0S8rskcWiVDIimrjdiWnYZTtAx0y_W8r3AES5aqCJM1E2lO1z2sfaJ4XrAl3a2NMU195BcWmNKr92R5rHnLCBVfKhU1vTFJJsGUDOGHjN6-U/w300-h400/IMG_20251012_130941.jpg",
@@ -1794,13 +1733,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/kook.html",
     "Category_label": "Pajalapid",
     "SubSubcategory": "Pajalapid",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "ROOSIPUU",
     "Name": "Roosipuu- pajalapid",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 15,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIjQ5WZSdhWj_iZvIwXB6vJAqPA4_xzRhkxz6k7weW_C5AA0XzylOYOfd5bs8l2aJQpr8T0Q56BYOLnKH3J5aRCpzfK8pAbklcSIK86KMJ6dMNgtlWXPNrkgflr7XY91xc7SEmaNJa8q6wVaLBc34ol5hazRFB1jqeo6-1y0VBrXFcQD4oRPGHB4juKdI/w300-h400/IMG_20251011_205853.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgh9qt4rQPaLDrp6-vJX3h6t-Iy5oJfRfBfB4KDyfXx6K5p6xBYk0lgYOiBIiueUL4N7STanysNhqsvPdmkGVA2elIpAKlHefzbPJXDqWx8xmuhrtLBKcU0tLbdgRrCqQbHzbtvlo5wa0ZMUFCe9C8AlLrmaMiqhcgM5_W0RMr75luAgnRC2eYATeIyUM/w300-h400/IMG_20251011_205908.png;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkzVnB7STOfT_V81836aXGeLIm6ktd16NMUVGl8oY7ZEr7pV-3x7L0ILgsGAXx2FrZiNbEK-qNMAg3fJGykQVzZVTqBsUh5joRnXU2nQ5HsmI3pO_8qbvFN_mauV1Xt3Ka0GhaJvPTJGcZFxhGJDw_pN1braUguBTIKDd3eL0KyAxIBDAKE_8k6oAzzA0/w300-h400/IMG_20251011_210022.jpg",
@@ -1823,13 +1761,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/kook.html",
     "Category_label": "Pajalapid",
     "SubSubcategory": "Pajalapid",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "KOOGIHARMOONIA",
     "Name": "Köögi harmoonia pajalapid ja lauamatt",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 20,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqmh2W428-85Osaos-gPkuocJzPTJEvx6IcfiCB1M8R9slspewmD3twt5ttd3_trz8gvsh-ZzaaWsflnjzbaudikQlUYO5wY4J9az3XpRU53JRDmrFCQJPgBcC1Uaz5_psYDhvf-SP3J_11xUC2fF-ZyUEOiMWWqF9CKa57jIpTwo3Nz4gGncZk-jraRE/s320/IMG_20251019_174957.jpg;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi03nSiK3w9pBuxiYJH9oiwbBoaJuYJm2yI_7ybbkCSGIM0UhfA7YWOm1rvi2VOJqzU1LdNm8oJcz-PyFyb4nulgGBklmg_nUGOW2um1utRWw3jIAk4_cZ5uhqEwBognJTj8Trj9wnoppPabqJq48XONxureMyzUd3bTvo2zqUZP8UrqZO64YsGOOmI3zY/s320/IMG_20251019_174852.jpg;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN3fatBDrPTHWH6Uzd0SH9YmPHivG6ZUZVyaCC16j2jsd0IWnqoM9yETTNpMjgRxwTB8B7AAyFP9Kh-ZaltbVXno0fezVb2D3-kshA_3RhwGneNC9Org2a958Gob35d8ZHeIjptqiGq4ANv16KxBFZMiZLXncky6PwHmIlU-5taYGngWol1UTEaNsn6UU/s320/IMG_20251019_174832.jpg;",
@@ -1852,13 +1789,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/kook.html",
     "Category_label": "Pajalapid",
     "SubSubcategory": "Pajalapid",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "PAIKESETAPILINE",
     "Name": "Päikesetäpiline pühapäev-pajalapid",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 18,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-21wYg6j7l-lJzjsXfOCMfEmTwWjeOwGBPsdLUWVRYOz1fiZ00sR2eyQzmKs2lqaa6DMtG-UmugM4hENibsBF7XawXbggYJr3XK_FTepX2_Teab6kYPIY0m5POyP15HKEcFcmP90wPyYMTU96ILOo3ugQ2iVggaaI4BL16hwrXnDmWIylaqzA3q7kV9w/s320/IMG_20251019_175136.jpg; https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiInZY_2-ojncfDqpx4aLKW0qye3Xt4gPCOuMcg3DzIj6uMCNeoPLK3FzZzTTlYXYEzI2Cayn0IqVMHpeiwbNbWAeFkncKlC5Cd1k04L4AG2tigpxUAUHN7XiYTV0mWHImjLVCL6-dAhQOAZhUg0GreduwgtEotvBuBFxrTatt-Asq6Fvvcght1Ejr7ujQ/s320/IMG_20251019_175154.jpg;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_chh-qfSiDt-pdmMhFp-XN1zJ_8oNb0-fRlqSEWXlkX4Dfoa-yu3j-7_cfcs5V4dPowa-UORSKNYBbvEXG25N9Se20N8x8p5jdM4q9v2ljecRSX1PY1SNOi6PmOjs1TXAApdOMtY_sc2XkN5q085MNcCIHaqU3g-aNXqKSPq3dsXLo2A3fOx0GRY-uhk/s320/IMG_20251019_175216.jpg;",
@@ -1881,13 +1817,12 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/kook.html",
     "Category_label": "Pajalapid",
     "SubSubcategory": "Pajalapid",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   },
   {
     "SKU": "VURTSINEVANILL",
     "Name": "Vürtsine vanill- pajalapid",
-    "Column 27": "",
+    "BaseSKU": "",
     "Price": 18,
     "Stock": 1,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMSizo5FJw9g4RKyXbVq-O5YU6uHRLDBSQdcLte6UKqvJylr-gCSVSTQ3YS75p5_YK5-FpOIfttdV0NPNLzLZAe3fKLoUqbFkR7quePIoYKZrY-dNdARNt3xTOVz5KRr2BnZl2hQ6aAyOh4yxZ4IdTOvGvg7fc69-ahOCoQG_GjUIdOQ04i-sPshcTD6w/s320/IMG_20251019_175115.jpg;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4fGK7UTcm4t1dBrsJKayGPjgmk-wp-jMYFgV3BOHrYjUW9_P12Oy8ANwtri9UxPHfavBgEbXdWIYl56Jy-UJCeZi7nl3DFRr26KPQAa27TWl1zlk_eybvrPozvaPxIVmfAWDwVZWn0r024hp1WzOw4f3msH0KQnNy0bVTo_Zapgfr7l05QPE55pNJ2iQ/s320/IMG_20251019_175052.jpg;",
@@ -1910,7 +1845,6 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/kook.html",
     "Category_label": "Pajalapid",
     "SubSubcategory": "Pajalapid",
-    "SyncStatus": "",
-    "BaseSKU": ""
+    "SyncStatus": ""
   }
 ]
