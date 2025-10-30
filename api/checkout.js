@@ -1,6 +1,16 @@
 import fetch from "node-fetch";
 
 export default async function handler(req, res) {
+  // ✅ Lubame Bloggeril ligi (CORS)
+  res.setHeader("Access-Control-Allow-Origin", "*");
+  res.setHeader("Access-Control-Allow-Methods", "POST, OPTIONS");
+  res.setHeader("Access-Control-Allow-Headers", "Content-Type");
+
+  // ✅ Kui lihtsalt kontroll (OPTIONS), vasta kohe OK
+  if (req.method === "OPTIONS") {
+    return res.status(200).end();
+  }
+
   if (req.method !== "POST") {
     return res.status(405).json({ ok: false, message: "Only POST allowed" });
   }
@@ -27,7 +37,7 @@ export default async function handler(req, res) {
       return res.status(200).send(text);
     }
   } catch (err) {
-    console.error("❌ Checkout viga:", err);
-    return res.status(500).json({ ok: false, error: String(err) });
+    console.error("❌ Checkout viga:", err.message);
+    return res.status(500).json({ ok: false, error: err.message });
   }
 }
