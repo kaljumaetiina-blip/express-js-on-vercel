@@ -4,7 +4,7 @@
     "Name": "Öömarja Õie- heegeldatud õlakott",
     "BaseSKU": "OOMARJA-OIE",
     "Price": 33,
-    "Stock": 1,
+    "Stock": 0,
     "ImageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipzaAEwfeN7hpZ-kD3GIp0EmZtMhKLxfT8-IykPnqhG3evlZnON6bnGq8V0IdXYlHBab3xs6cwp8DoAdoOH-JsmMb1AcQrCat-INPC1vY4VnQR4l286-isiuOF07XOvjOC7X8wvqO_Hfjd_V0MHEX1FEQf2V5hA8dm_EXjAPV3BJhwIG5Fiy-cYh4IKqY/s320/IMG_20250829_122900.jpg",
     "Category": "Naistele",
     "Active": true,
@@ -25,7 +25,7 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/kotid.html",
     "Category_label": "Kotid",
     "SubSubcategory": "",
-    "SyncStatus": "✅ Sünkroonis 29.10.2025, 16:58:28"
+    "SyncStatus": "✅ Sünkroonis 30.10.2025, 01:58:24"
   },
   {
     "SKU": "PILVEKE-PILLE",
@@ -1845,6 +1845,34 @@
     "Category_url": "https://tiinakasitoopood.blogspot.com/p/kook.html",
     "Category_label": "Pajalapid",
     "SubSubcategory": "Pajalapid",
+    "SyncStatus": ""
+  },
+  {
+    "SKU": "defr",
+    "Name": "mmmm",
+    "BaseSKU": "",
+    "Price": "",
+    "Stock": "",
+    "ImageURL": "",
+    "Category": "",
+    "Active": "",
+    "url": "",
+    "ship_fee": "",
+    "ship_fee_courier": "",
+    "shipClass": "",
+    "Size": "",
+    "Material": "",
+    "Story_et": "",
+    "Bullets": "",
+    "Care": "",
+    "Description": "",
+    "Notice": "",
+    "Subcategory": "",
+    "Highlight": "",
+    "blog_url": "",
+    "Category_url": "",
+    "Category_label": "",
+    "SubSubcategory": "",
     "SyncStatus": ""
   }
 ]
